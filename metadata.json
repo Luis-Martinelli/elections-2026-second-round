@@ -1,0 +1,6 @@
+{
+  "name": "40º BPM/I · Eleições 2026 - Controle Operacional",
+  "description": "Sistema de controle de escala, check-in georreferenciado e fiscalização de rondas para o 40º BPM/I no 2º Turno das Eleições 2026 integrado ao Google Drive e Sheets.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

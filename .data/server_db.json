@@ -1,0 +1,5587 @@
+{
+  "checkins": [],
+  "rondas": [],
+  "schools": [
+    {
+      "id": "school-ee-honorina-rios-de-carvalho-mello-aluminio",
+      "school": "EE HONORINA RIOS DE CARVALHO MELLO",
+      "city": "ALUMÍNIO",
+      "bairro": "VILA PEDAGIO",
+      "zone": "131",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5177583,
+      "lng": -47.2581715,
+      "address": "RUA FLORIANO VIEIRA 125, VILA PEDAGIO - ALUMÍNIO",
+      "am": {
+        "re": "121769-A",
+        "name": "RODRIGO AUGUSTO DE OLIVEIRA",
+        "rank": "Sd PM",
+        "phone": "11947563452"
+      },
+      "pm": {
+        "re": "201500-5",
+        "name": "RAUANE ADRIELI ALVEZ SOTERO",
+        "rank": "Sd PM",
+        "phone": "11956108315"
+      },
+      "amOfficers": [
+        {
+          "re": "121769-A",
+          "name": "RODRIGO AUGUSTO DE OLIVEIRA",
+          "rank": "Sd PM",
+          "phone": "11947563452"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "201500-5",
+          "name": "RAUANE ADRIELI ALVEZ SOTERO",
+          "rank": "Sd PM",
+          "phone": "11956108315"
+        }
+      ]
+    },
+    {
+      "id": "school-em-comendador-rodovalho-aluminio",
+      "school": "EM COMENDADOR RODOVALHO",
+      "city": "ALUMÍNIO",
+      "bairro": "VILA PAULO DIAS",
+      "zone": "131",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5274667,
+      "lng": -47.2513883,
+      "address": "RUA ANTONIO DIAS 20, VILA PAULO DIAS - ALUMÍNIO",
+      "am": {
+        "re": "195194-7",
+        "name": "JEFFERSON DE JESUS VIEIRA",
+        "rank": "Cb PM",
+        "phone": "11981777902"
+      },
+      "pm": {
+        "re": "974509-2",
+        "name": "DARLENE FLEURY DOS SANTOS",
+        "rank": "Cb PM",
+        "phone": "11999332152"
+      },
+      "amOfficers": [
+        {
+          "re": "195194-7",
+          "name": "JEFFERSON DE JESUS VIEIRA",
+          "rank": "Cb PM",
+          "phone": "11981777902"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "974509-2",
+          "name": "DARLENE FLEURY DOS SANTOS",
+          "rank": "Cb PM",
+          "phone": "11999332152"
+        }
+      ]
+    },
+    {
+      "id": "school-em-engo-antonio-de-castro-figueiroa-aluminio",
+      "school": "EM ENGO ANTONIO DE CASTRO FIGUEIROA",
+      "city": "ALUMÍNIO",
+      "bairro": "JARDIM OLIDEL",
+      "zone": "131",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5178903,
+      "lng": -47.2496297,
+      "address": "RUA LUIZ MARTINS 100, JARDIM OLIDEL - ALUMÍNIO",
+      "am": {
+        "re": "154801-8",
+        "name": "DANILO TROIANO DOS SANTOS",
+        "rank": "Sd PM",
+        "phone": "11932036599"
+      },
+      "pm": {
+        "re": "120704-A",
+        "name": "WALTER DE OLIVEIRA SANTOS NETO",
+        "rank": "Cb PM",
+        "phone": "11994790836"
+      },
+      "amOfficers": [
+        {
+          "re": "154801-8",
+          "name": "DANILO TROIANO DOS SANTOS",
+          "rank": "Sd PM",
+          "phone": "11932036599"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "120704-A",
+          "name": "WALTER DE OLIVEIRA SANTOS NETO",
+          "rank": "Cb PM",
+          "phone": "11994790836"
+        }
+      ]
+    },
+    {
+      "id": "school-em-profa-isaura-kruger-aluminio",
+      "school": "EM PROFA ISAURA KRUGER",
+      "city": "ALUMÍNIO",
+      "bairro": "VILA INDUSTRIAL",
+      "zone": "131",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.537349,
+      "lng": -47.254331,
+      "address": "AV. SANTIAGO 468, VILA INDUSTRIAL - ALUMÍNIO",
+      "am": {
+        "re": "121201-0",
+        "name": "DUANE NICOLAU DE SOUZA",
+        "rank": "Cb PM",
+        "phone": "15991412743"
+      },
+      "pm": {
+        "re": "111810-2",
+        "name": "ALEXANDRE ARLINDO DOS SANTOS",
+        "rank": "Cb PM",
+        "phone": "15997175474"
+      },
+      "amOfficers": [
+        {
+          "re": "121201-0",
+          "name": "DUANE NICOLAU DE SOUZA",
+          "rank": "Cb PM",
+          "phone": "15991412743"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "111810-2",
+          "name": "ALEXANDRE ARLINDO DOS SANTOS",
+          "rank": "Cb PM",
+          "phone": "15997175474"
+        }
+      ]
+    },
+    {
+      "id": "school-cartorio-eleitoral-de-votoratim-votorantim",
+      "school": "CARTORIO ELEITORAL DE VOTORATIM",
+      "city": "VOTORANTIM",
+      "bairro": "CENTRO",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5411,
+      "lng": -47.4429,
+      "address": "RUA ALFREDO POJETTI 46, CENTRO - VOTORANTIM",
+      "am": {
+        "re": "134973-2",
+        "name": "LEONARDO JOSE DA SILVA",
+        "rank": "1º Sgt PM",
+        "phone": "15 988328613"
+      },
+      "pm": {
+        "re": "195632-9",
+        "name": "ARIANE CAROLINE DE ALMEIDA AMARAL GURGEL",
+        "rank": "Sd PM",
+        "phone": "15991965735"
+      },
+      "amOfficers": [
+        {
+          "re": "134973-2",
+          "name": "LEONARDO JOSE DA SILVA",
+          "rank": "1º Sgt PM",
+          "phone": "15 988328613"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "195632-9",
+          "name": "ARIANE CAROLINE DE ALMEIDA AMARAL GURGEL",
+          "rank": "Sd PM",
+          "phone": "15991965735"
+        }
+      ]
+    },
+    {
+      "id": "school-cmei-carmela-guariglia-ramos-votorantim",
+      "school": "CMEI CARMELA GUARIGLIA RAMOS",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM SERRANO II",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5284498,
+      "lng": -47.4314352,
+      "address": "MARIO NIERI 144, JARDIM SERRANO II - VOTORANTIM",
+      "am": {
+        "re": "111915-0",
+        "name": "MAX PAULO ROSENER",
+        "rank": "1º Sgt PM",
+        "phone": "15997224974"
+      },
+      "pm": {
+        "re": "151066-5",
+        "name": "ANA CAROLINA DE MELO",
+        "rank": "Cb PM",
+        "phone": "15997913491"
+      },
+      "amOfficers": [
+        {
+          "re": "111915-0",
+          "name": "MAX PAULO ROSENER",
+          "rank": "1º Sgt PM",
+          "phone": "15997224974"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "151066-5",
+          "name": "ANA CAROLINA DE MELO",
+          "rank": "Cb PM",
+          "phone": "15997913491"
+        }
+      ]
+    },
+    {
+      "id": "school-cmei-romana-frederico-bauch-votorantim",
+      "school": "CMEI ROMANA FREDERICO BAUCH",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM NOVO MUNDO",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.539563,
+      "lng": -47.5021968,
+      "address": "RUA JOSE PAZ RIBEIRO 81, JARDIM NOVO MUNDO - VOTORANTIM",
+      "am": {
+        "re": "193837-1",
+        "name": "KENNY WALACE LIMA RIBEIRO",
+        "rank": "Sd PM",
+        "phone": "11967327940"
+      },
+      "pm": {
+        "re": "156829-9",
+        "name": "CARLOS HENRIQUE FOGAÇA",
+        "rank": "Sd PM",
+        "phone": "15996293616"
+      },
+      "amOfficers": [
+        {
+          "re": "193837-1",
+          "name": "KENNY WALACE LIMA RIBEIRO",
+          "rank": "Sd PM",
+          "phone": "11967327940"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "156829-9",
+          "name": "CARLOS HENRIQUE FOGAÇA",
+          "rank": "Sd PM",
+          "phone": "15996293616"
+        }
+      ]
+    },
+    {
+      "id": "school-cmei-rosa-pereira-votorantim",
+      "school": "CMEI ROSA PEREIRA",
+      "city": "VOTORANTIM",
+      "bairro": "VILA NOVA VOTORANTIM",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.536805,
+      "lng": -47.4101279,
+      "address": "RUA FLAVIO SAMPAIO 41, VILA NOVA VOTORANTIM - VOTORANTIM",
+      "am": {
+        "re": "220450-9",
+        "name": "BRUNO TOMAZELLA ROCHA CAMARGO",
+        "rank": "Sd PM",
+        "phone": "15998507079"
+      },
+      "pm": {
+        "re": "200909-9",
+        "name": "HELMO LUIZ SCHOSSLER SEABRA",
+        "rank": "Cb PM",
+        "phone": "15981331607"
+      },
+      "amOfficers": [
+        {
+          "re": "220450-9",
+          "name": "BRUNO TOMAZELLA ROCHA CAMARGO",
+          "rank": "Sd PM",
+          "phone": "15998507079"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "200909-9",
+          "name": "HELMO LUIZ SCHOSSLER SEABRA",
+          "rank": "Cb PM",
+          "phone": "15981331607"
+        }
+      ]
+    },
+    {
+      "id": "school-cmei--carmela-de-paula-cipullo-votorantim",
+      "school": "CMEI. CARMELA DE PAULA CIPULLO",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM TOLEDO",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5282304,
+      "lng": -47.4411756,
+      "address": "RUA HORACIO VASCONCELOS LEITE 76, JARDIM TOLEDO - VOTORANTIM",
+      "am": {
+        "re": "132221-4",
+        "name": "ROBSON PEREIRA NASTRI FT",
+        "rank": "2º Sgt PM",
+        "phone": "15 99679-4261"
+      },
+      "pm": {
+        "re": "151796-1",
+        "name": "JOÃO ESTEVAM SOUZA SILVA",
+        "rank": "Sd PM",
+        "phone": "15991369159"
+      },
+      "amOfficers": [
+        {
+          "re": "132221-4",
+          "name": "ROBSON PEREIRA NASTRI FT",
+          "rank": "2º Sgt PM",
+          "phone": "15 99679-4261"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "151796-1",
+          "name": "JOÃO ESTEVAM SOUZA SILVA",
+          "rank": "Sd PM",
+          "phone": "15991369159"
+        }
+      ]
+    },
+    {
+      "id": "school-cmei--raphaela-resio-cau-votorantim",
+      "school": "CMEI. RAPHAELA RESIO CAU",
+      "city": "VOTORANTIM",
+      "bairro": "VILA GARCIA",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5299363,
+      "lng": -47.4311884,
+      "address": "RUA CARLOS CALDINI 300, VILA GARCIA - VOTORANTIM",
+      "am": {
+        "re": "121758-5",
+        "name": "LUIZ HENRIQUE SOARES BARBOSA CPI7",
+        "rank": "1º Sgt PM",
+        "phone": "15 97401-2382"
+      },
+      "pm": {
+        "re": "194441-0",
+        "name": "GABRIEL VICTOR MIGUEL SEPTIMIO",
+        "rank": "Sd PM",
+        "phone": "3198821607"
+      },
+      "amOfficers": [
+        {
+          "re": "121758-5",
+          "name": "LUIZ HENRIQUE SOARES BARBOSA CPI7",
+          "rank": "1º Sgt PM",
+          "phone": "15 97401-2382"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "194441-0",
+          "name": "GABRIEL VICTOR MIGUEL SEPTIMIO",
+          "rank": "Sd PM",
+          "phone": "3198821607"
+        }
+      ]
+    },
+    {
+      "id": "school-colegio-bela-alvorada-votorantim",
+      "school": "COLEGIO BELA ALVORADA",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM ICATU",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5430686,
+      "lng": -47.4567774,
+      "address": "RUA JOAO GUGONI 65, JARDIM ICATU - VOTORANTIM",
+      "am": {
+        "re": "132165-0",
+        "name": "ANDRE MAURICI NUNES",
+        "rank": "1º Sgt PM",
+        "phone": "15 98810-1019"
+      },
+      "pm": {
+        "re": "210639-6",
+        "name": "SAMANTHA NELLIDY XAVIER",
+        "rank": "Sd PM",
+        "phone": "15997520863"
+      },
+      "amOfficers": [
+        {
+          "re": "132165-0",
+          "name": "ANDRE MAURICI NUNES",
+          "rank": "1º Sgt PM",
+          "phone": "15 98810-1019"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "210639-6",
+          "name": "SAMANTHA NELLIDY XAVIER",
+          "rank": "Sd PM",
+          "phone": "15997520863"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--comendador-pereira-inacio-votorantim",
+      "school": "EE. COMENDADOR PEREIRA INACIO",
+      "city": "VOTORANTIM",
+      "bairro": "BARRA FUNDA",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5474019,
+      "lng": -47.434751,
+      "address": "AV. SANTO ANTONIO 665, BARRA FUNDA - VOTORANTIM",
+      "am": {
+        "re": "117360-0",
+        "name": "GIOVAN LUCIO PEDROSA",
+        "rank": "2º Sgt PM",
+        "phone": "15 99761-6444"
+      },
+      "pm": {
+        "re": "111906-A",
+        "name": "JOSE AUGUSTO NUNES LIMA",
+        "rank": "Cb PM",
+        "phone": "15988380003"
+      },
+      "amOfficers": [
+        {
+          "re": "117360-0",
+          "name": "GIOVAN LUCIO PEDROSA",
+          "rank": "2º Sgt PM",
+          "phone": "15 99761-6444"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "111906-A",
+          "name": "JOSE AUGUSTO NUNES LIMA",
+          "rank": "Cb PM",
+          "phone": "15988380003"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--evilazio-de-goes-vieira-votorantim",
+      "school": "EE. EVILAZIO DE GOES VIEIRA",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM BANDEIRANTES",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5570736,
+      "lng": -47.4545173,
+      "address": "AV. CRISTIANO VIEIRA PEDRICO 568, JARDIM BANDEIRANTES - VOTORANTIM",
+      "am": {
+        "re": "133315-1",
+        "name": "MARCELO DE SOUZA CUSTODIO",
+        "rank": "Cb PM",
+        "phone": "15 996318390"
+      },
+      "pm": {
+        "re": "200376-7",
+        "name": "MICHAEL DOUGLAS DOS SANTOS SILVA",
+        "rank": "Sd PM",
+        "phone": "11945413140"
+      },
+      "amOfficers": [
+        {
+          "re": "133315-1",
+          "name": "MARCELO DE SOUZA CUSTODIO",
+          "rank": "Cb PM",
+          "phone": "15 996318390"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "200376-7",
+          "name": "MICHAEL DOUGLAS DOS SANTOS SILVA",
+          "rank": "Sd PM",
+          "phone": "11945413140"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--prof--armando-rizzo-votorantim",
+      "school": "EE. PROF. ARMANDO RIZZO",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM ARAUJO",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5428615,
+      "lng": -47.427581,
+      "address": "RUA RENATO ARAUJO 281, JARDIM ARAUJO - VOTORANTIM",
+      "am": {
+        "re": "195794-5",
+        "name": "FABIO RAMOS PEREIRA",
+        "rank": "Sd PM",
+        "phone": "15 99794-5012"
+      },
+      "pm": {
+        "re": "200357-A",
+        "name": "CAIO HENRIQUE SANTOS TELES",
+        "rank": "Cb PM",
+        "phone": "15988228982"
+      },
+      "amOfficers": [
+        {
+          "re": "195794-5",
+          "name": "FABIO RAMOS PEREIRA",
+          "rank": "Sd PM",
+          "phone": "15 99794-5012"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "200357-A",
+          "name": "CAIO HENRIQUE SANTOS TELES",
+          "rank": "Cb PM",
+          "phone": "15988228982"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--prof--azarias-mendes-votorantim",
+      "school": "EE. PROF. AZARIAS MENDES",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM CLARICE I",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5537089,
+      "lng": -47.4635974,
+      "address": "RUA JOSE DOLLES 53, JARDIM CLARICE I - VOTORANTIM",
+      "am": {
+        "re": "120735-A",
+        "name": "ANA PAULA PETRULIO ROMERO",
+        "rank": "1º Sgt PM",
+        "phone": "15 99750-1529"
+      },
+      "pm": {
+        "re": "141581-6",
+        "name": "WALTER LEME DA SILVA JUNIOR",
+        "rank": "Cb PM",
+        "phone": "15 99139-4226"
+      },
+      "amOfficers": [
+        {
+          "re": "120735-A",
+          "name": "ANA PAULA PETRULIO ROMERO",
+          "rank": "1º Sgt PM",
+          "phone": "15 99750-1529"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "141581-6",
+          "name": "WALTER LEME DA SILVA JUNIOR",
+          "rank": "Cb PM",
+          "phone": "15 99139-4226"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--prof--daniel-verano-votorantim",
+      "school": "EE. PROF. DANIEL VERANO",
+      "city": "VOTORANTIM",
+      "bairro": "PARQUE BELA VISTA",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5445624,
+      "lng": -47.4535303,
+      "address": "RUA CARLOS LUVISON 180, PARQUE BELA VISTA - VOTORANTIM",
+      "am": {
+        "re": "111942-7",
+        "name": "JULIANO DA SILVA MELO FT",
+        "rank": "Subten PM",
+        "phone": "15 9606-6578"
+      },
+      "pm": {
+        "re": "132928-6",
+        "name": "FELIPE NUNES FERREIRA",
+        "rank": "Cb PM",
+        "phone": "15988006563"
+      },
+      "amOfficers": [
+        {
+          "re": "111942-7",
+          "name": "JULIANO DA SILVA MELO FT",
+          "rank": "Subten PM",
+          "phone": "15 9606-6578"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "132928-6",
+          "name": "FELIPE NUNES FERREIRA",
+          "rank": "Cb PM",
+          "phone": "15988006563"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--prof--pedro-augusto-rangel-filho-votorantim",
+      "school": "EE. PROF. PEDRO AUGUSTO RANGEL FILHO",
+      "city": "VOTORANTIM",
+      "bairro": "VILA NOVA VOTORANTIM",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.538023,
+      "lng": -47.4178842,
+      "address": "RUA PEDRO AUGUSTO RANGEL 1641, VILA NOVA VOTORANTIM - VOTORANTIM",
+      "am": {
+        "re": "117021-0",
+        "name": "LUIZ FERNANDO GONCALVES DA SILVA",
+        "rank": "Cb PM",
+        "phone": "15 99704-3077"
+      },
+      "pm": {
+        "re": "134697-A",
+        "name": "DIEGO ROMERI DE SA SOUZA",
+        "rank": "Cb PM",
+        "phone": "15 996003830"
+      },
+      "amOfficers": [
+        {
+          "re": "117021-0",
+          "name": "LUIZ FERNANDO GONCALVES DA SILVA",
+          "rank": "Cb PM",
+          "phone": "15 99704-3077"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "134697-A",
+          "name": "DIEGO ROMERI DE SA SOUZA",
+          "rank": "Cb PM",
+          "phone": "15 996003830"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--prof--wilson-prestes-miramontes-votorantim",
+      "school": "EE. PROF. WILSON PRESTES MIRAMONTES",
+      "city": "VOTORANTIM",
+      "bairro": "PARQUE JATAI",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5684576,
+      "lng": -47.454567,
+      "address": "RUA LEVANTE SANTUCCI S N, PARQUE JATAI - VOTORANTIM",
+      "am": {
+        "re": "117201-8",
+        "name": "RICARDO DONHA PANEGOCIO",
+        "rank": "Cb PM",
+        "phone": "15 99729-8063"
+      },
+      "pm": {
+        "re": "190845-6",
+        "name": "CHEILA CRISTINA DE SOUZA",
+        "rank": "Cb PM",
+        "phone": "15996782192"
+      },
+      "amOfficers": [
+        {
+          "re": "117201-8",
+          "name": "RICARDO DONHA PANEGOCIO",
+          "rank": "Cb PM",
+          "phone": "15 99729-8063"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "190845-6",
+          "name": "CHEILA CRISTINA DE SOUZA",
+          "rank": "Cb PM",
+          "phone": "15996782192"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--profa--alice-rolim-de-moura-holtz-votorantim",
+      "school": "EE. PROFA. ALICE ROLIM DE MOURA HOLTZ",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM SAO LUCAS",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.578518,
+      "lng": -47.470915,
+      "address": "RUA ANALIA PEREIRA 1219, JARDIM SAO LUCAS - VOTORANTIM",
+      "am": {
+        "re": "141223-0",
+        "name": "ANDERSON ANTONIO PALAZZO",
+        "rank": "Cb PM",
+        "phone": "15 99745-2435"
+      },
+      "pm": {
+        "re": "135553-8",
+        "name": "FELIPE RAMOS CHAGAS",
+        "rank": "Cb PM",
+        "phone": "15 98125-7118"
+      },
+      "amOfficers": [
+        {
+          "re": "141223-0",
+          "name": "ANDERSON ANTONIO PALAZZO",
+          "rank": "Cb PM",
+          "phone": "15 99745-2435"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "135553-8",
+          "name": "FELIPE RAMOS CHAGAS",
+          "rank": "Cb PM",
+          "phone": "15 98125-7118"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--profa--antonieta-ferrarese-votorantim",
+      "school": "EE. PROFA. ANTONIETA FERRARESE",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM SAO LUIS",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5330784,
+      "lng": -47.4352144,
+      "address": "RUA MATUSO MATUSHIMA 180, JARDIM SAO LUIS - VOTORANTIM",
+      "am": {
+        "re": "153584-6",
+        "name": "LUCAS BATISTA DE SA LARA - FT",
+        "rank": "Sd PM",
+        "phone": "15 98132-0534"
+      },
+      "pm": {
+        "re": "200465-8",
+        "name": "TIAGO WILLIAM DA SILVA MARTINS RODRIGUES",
+        "rank": "Cb PM",
+        "phone": "15998176116"
+      },
+      "amOfficers": [
+        {
+          "re": "153584-6",
+          "name": "LUCAS BATISTA DE SA LARA - FT",
+          "rank": "Sd PM",
+          "phone": "15 98132-0534"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "200465-8",
+          "name": "TIAGO WILLIAM DA SILVA MARTINS RODRIGUES",
+          "rank": "Cb PM",
+          "phone": "15998176116"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--profa--clotilde-beline-capitani-votorantim",
+      "school": "EE. PROFA. CLOTILDE BELINE CAPITANI",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM ARCHILA",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5319113,
+      "lng": -47.4434667,
+      "address": "RUA ROQUE MARTINS DE PAULA 105, JARDIM ARCHILA - VOTORANTIM",
+      "am": {
+        "re": "193817-7",
+        "name": "RENATA LEMOS RODRIGUES VIANA",
+        "rank": "Sd PM",
+        "phone": "15 99146-3098"
+      },
+      "pm": {
+        "re": "220510-6",
+        "name": "BARBARA NOVAIS OLIVEIRA",
+        "rank": "Sd PM",
+        "phone": "15997510782"
+      },
+      "amOfficers": [
+        {
+          "re": "193817-7",
+          "name": "RENATA LEMOS RODRIGUES VIANA",
+          "rank": "Sd PM",
+          "phone": "15 99146-3098"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "220510-6",
+          "name": "BARBARA NOVAIS OLIVEIRA",
+          "rank": "Sd PM",
+          "phone": "15997510782"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--profa--selma-maria-martins-cunha-votorantim",
+      "school": "EE. PROFA. SELMA MARIA MARTINS CUNHA",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM TATIANA",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.545563,
+      "lng": -47.4953721,
+      "address": "RUA ADRIANO MACIEL DE QUEIROZ 1054, JARDIM TATIANA - VOTORANTIM",
+      "am": {
+        "re": "117175-5",
+        "name": "LUIS RODRIGO PAIOLA CPI7",
+        "rank": "Cb PM",
+        "phone": "15 98112-6321"
+      },
+      "pm": {
+        "re": "143001-7",
+        "name": "PAULO JOSE CARDOZO",
+        "rank": "Cb PM",
+        "phone": "15991587223"
+      },
+      "amOfficers": [
+        {
+          "re": "117175-5",
+          "name": "LUIS RODRIGO PAIOLA CPI7",
+          "rank": "Cb PM",
+          "phone": "15 98112-6321"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "143001-7",
+          "name": "PAULO JOSE CARDOZO",
+          "rank": "Cb PM",
+          "phone": "15991587223"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--senador-jose-ermirio-de-moraes-votorantim",
+      "school": "EE. SENADOR JOSE ERMIRIO DE MORAES",
+      "city": "VOTORANTIM",
+      "bairro": "VOTOCEL",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5547982,
+      "lng": -47.4408187,
+      "address": "RUA ITALIA SALVESTRO MORA 381, VOTOCEL - VOTORANTIM",
+      "am": {
+        "re": "151035-5",
+        "name": "EDUARDO ROBERTO VIEIRA DE MEDEIROS",
+        "rank": "Cb PM",
+        "phone": "15 99717-5721"
+      },
+      "pm": {
+        "re": "136017-5",
+        "name": "MOISES DE FREITAS",
+        "rank": "Cb PM",
+        "phone": "15991873319"
+      },
+      "amOfficers": [
+        {
+          "re": "151035-5",
+          "name": "EDUARDO ROBERTO VIEIRA DE MEDEIROS",
+          "rank": "Cb PM",
+          "phone": "15 99717-5721"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "136017-5",
+          "name": "MOISES DE FREITAS",
+          "rank": "Cb PM",
+          "phone": "15991873319"
+        }
+      ]
+    },
+    {
+      "id": "school-emef-sueli-da-silva-paula-votorantim",
+      "school": "EMEF SUELI DA SILVA PAULA",
+      "city": "VOTORANTIM",
+      "bairro": "BARRA FUNDA",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5458882,
+      "lng": -47.4392289,
+      "address": "RUA LAILA GALLEP SACKER N 25 - BARRA FUNDA, BARRA FUNDA - VOTORANTIM",
+      "am": {
+        "re": "111758-A",
+        "name": "ADRIEL DE OLIVEIRA ADAMI",
+        "rank": "Cb PM",
+        "phone": "15 99700-8000"
+      },
+      "pm": {
+        "re": "117313-8",
+        "name": "FABIANO BONACHINI",
+        "rank": "Cb PM",
+        "phone": "15998711190"
+      },
+      "amOfficers": [
+        {
+          "re": "111758-A",
+          "name": "ADRIEL DE OLIVEIRA ADAMI",
+          "rank": "Cb PM",
+          "phone": "15 99700-8000"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "117313-8",
+          "name": "FABIANO BONACHINI",
+          "rank": "Cb PM",
+          "phone": "15998711190"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--izabel-ferreira-coelho-votorantim",
+      "school": "EMEF. IZABEL FERREIRA COELHO",
+      "city": "VOTORANTIM",
+      "bairro": "RIO ACIMA",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.536679,
+      "lng": -47.4353832,
+      "address": "RUA JOSE GORI S N, RIO ACIMA - VOTORANTIM",
+      "am": {
+        "re": "128276-0",
+        "name": "MARCELO PAES LANDIM",
+        "rank": "Cb PM",
+        "phone": "11 98930-9210"
+      },
+      "pm": {
+        "re": "121727-5",
+        "name": "ALEXANDRE MARX MORELLO",
+        "rank": "Cb PM",
+        "phone": "15 99720-1026"
+      },
+      "amOfficers": [
+        {
+          "re": "128276-0",
+          "name": "MARCELO PAES LANDIM",
+          "rank": "Cb PM",
+          "phone": "11 98930-9210"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "121727-5",
+          "name": "ALEXANDRE MARX MORELLO",
+          "rank": "Cb PM",
+          "phone": "15 99720-1026"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--joao-ferreira-da-silva-votorantim",
+      "school": "EMEF. JOAO FERREIRA DA SILVA",
+      "city": "VOTORANTIM",
+      "bairro": "ITAPEVA",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.540286,
+      "lng": -47.4445978,
+      "address": "RUA ANGELO BRUNO 123, ITAPEVA - VOTORANTIM",
+      "am": {
+        "re": "131925-6",
+        "name": "RENATO LOURENCO PINEDA",
+        "rank": "Cb PM",
+        "phone": "15 97402-3383"
+      },
+      "pm": {
+        "re": "128207-7",
+        "name": "JÚNIOR DOMINGUES RODRIGUES",
+        "rank": "Cb PM",
+        "phone": "15 98155-8522"
+      },
+      "amOfficers": [
+        {
+          "re": "131925-6",
+          "name": "RENATO LOURENCO PINEDA",
+          "rank": "Cb PM",
+          "phone": "15 97402-3383"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "128207-7",
+          "name": "JÚNIOR DOMINGUES RODRIGUES",
+          "rank": "Cb PM",
+          "phone": "15 98155-8522"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--prof--abimael-carlos-de-campos-votorantim",
+      "school": "EMEF. PROF. ABIMAEL CARLOS DE CAMPOS",
+      "city": "VOTORANTIM",
+      "bairro": "RIO ACIMA",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5406962,
+      "lng": -47.4380803,
+      "address": "AV. LUIZ DO PATROCINO FERNANDES 641, RIO ACIMA - VOTORANTIM",
+      "am": {
+        "re": "148091-0",
+        "name": "FERNANDA DE OLIVEIRA RAMOS",
+        "rank": "Cb PM",
+        "phone": "15 97401-0484"
+      },
+      "pm": {
+        "re": "962229-2",
+        "name": "SONIA DE FATIMA MARQUES",
+        "rank": "Cb PM",
+        "phone": "15997108405"
+      },
+      "amOfficers": [
+        {
+          "re": "148091-0",
+          "name": "FERNANDA DE OLIVEIRA RAMOS",
+          "rank": "Cb PM",
+          "phone": "15 97401-0484"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "962229-2",
+          "name": "SONIA DE FATIMA MARQUES",
+          "rank": "Cb PM",
+          "phone": "15997108405"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--prof--antonio-vicente-bernardi-votorantim",
+      "school": "EMEF. PROF. ANTONIO VICENTE BERNARDI",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM ARCHILA",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5328966,
+      "lng": -47.4429644,
+      "address": "RUA JOSE ALARCON 50, JARDIM ARCHILA - VOTORANTIM",
+      "am": {
+        "re": "152678-2",
+        "name": "MARCIA APARECIDA DOS SANTOS",
+        "rank": "Sd PM",
+        "phone": "15997115198"
+      },
+      "pm": {
+        "re": "120619-2",
+        "name": "DIRCEU SANTOS MACIEL JUNIOR",
+        "rank": "Cb PM",
+        "phone": "15988186032"
+      },
+      "amOfficers": [
+        {
+          "re": "152678-2",
+          "name": "MARCIA APARECIDA DOS SANTOS",
+          "rank": "Sd PM",
+          "phone": "15997115198"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "120619-2",
+          "name": "DIRCEU SANTOS MACIEL JUNIOR",
+          "rank": "Cb PM",
+          "phone": "15988186032"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--prof--lauro-alves-de-lima-votorantim",
+      "school": "EMEF. PROF. LAURO ALVES DE LIMA",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM SERRANO",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5623412,
+      "lng": -47.4541142,
+      "address": "RUA CAETANO CORREA DA SILVA 33, JARDIM SERRANO - VOTORANTIM",
+      "am": {
+        "re": "155593-6",
+        "name": "KENNETH YUKIO ISHIGOOKA SOTOMAYOR",
+        "rank": "Sd PM",
+        "phone": "13 99615-5566"
+      },
+      "pm": {
+        "re": "146786-7",
+        "name": "FERNANDO DOS SANTOS OLIVEIRA",
+        "rank": "Cb PM",
+        "phone": "15998048080"
+      },
+      "amOfficers": [
+        {
+          "re": "155593-6",
+          "name": "KENNETH YUKIO ISHIGOOKA SOTOMAYOR",
+          "rank": "Sd PM",
+          "phone": "13 99615-5566"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "146786-7",
+          "name": "FERNANDO DOS SANTOS OLIVEIRA",
+          "rank": "Cb PM",
+          "phone": "15998048080"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--prof--walter-rocha-camargo-votorantim",
+      "school": "EMEF. PROF. WALTER ROCHA CAMARGO",
+      "city": "VOTORANTIM",
+      "bairro": "PRO-MORAR",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5376042,
+      "lng": -47.4112477,
+      "address": "RUA ODETE GORI BICUDO 800, PRO-MORAR - VOTORANTIM",
+      "am": {
+        "re": "140823-2",
+        "name": "ANDERSON QUEIROZ DE LIMA",
+        "rank": "Cb PM",
+        "phone": "15997228740"
+      },
+      "pm": {
+        "re": "116610-7",
+        "name": "LUCAS ROBLES ALVES",
+        "rank": "Cb PM",
+        "phone": "11967606781"
+      },
+      "amOfficers": [
+        {
+          "re": "140823-2",
+          "name": "ANDERSON QUEIROZ DE LIMA",
+          "rank": "Cb PM",
+          "phone": "15997228740"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "116610-7",
+          "name": "LUCAS ROBLES ALVES",
+          "rank": "Cb PM",
+          "phone": "11967606781"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--profa--dides-crispim-de-almeida-antonio-votorantim",
+      "school": "EMEF. PROFA. DIDES CRISPIM DE ALMEIDA ANTONIO",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM DANIEL ANTONIO",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5284498,
+      "lng": -47.4314352,
+      "address": "MARIO NIERI 144, JARDIM DANIEL ANTONIO - VOTORANTIM",
+      "am": {
+        "re": "120615-0",
+        "name": "DARIO JOSE PALMA",
+        "rank": "1º Sgt PM",
+        "phone": "15 99722-2563"
+      },
+      "pm": {
+        "re": "126779-5",
+        "name": "WILLIAM CAMPOS FERREIRA",
+        "rank": "2º Sgt PM",
+        "phone": "15 974042822"
+      },
+      "amOfficers": [
+        {
+          "re": "120615-0",
+          "name": "DARIO JOSE PALMA",
+          "rank": "1º Sgt PM",
+          "phone": "15 99722-2563"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "126779-5",
+          "name": "WILLIAM CAMPOS FERREIRA",
+          "rank": "2º Sgt PM",
+          "phone": "15 974042822"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--profa--edith-maganini-votorantim",
+      "school": "EMEF. PROFA. EDITH MAGANINI",
+      "city": "VOTORANTIM",
+      "bairro": "VOSSOROCA",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5496343,
+      "lng": -47.4558006,
+      "address": "RUA JOAO CARLOS DE CAMPOS 359, VOSSOROCA - VOTORANTIM",
+      "am": {
+        "re": "192511-3",
+        "name": "BENEDITO THEOTONIO NETO",
+        "rank": "Sd PM",
+        "phone": "1599140-6767"
+      },
+      "pm": {
+        "re": "148750-7",
+        "name": "RAFAEL RODRIGO DE CAMARGO",
+        "rank": "Sd PM",
+        "phone": "15988011167"
+      },
+      "amOfficers": [
+        {
+          "re": "192511-3",
+          "name": "BENEDITO THEOTONIO NETO",
+          "rank": "Sd PM",
+          "phone": "1599140-6767"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "148750-7",
+          "name": "RAFAEL RODRIGO DE CAMARGO",
+          "rank": "Sd PM",
+          "phone": "15988011167"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--profa--mercedes-santucci-votorantim",
+      "school": "EMEF. PROFA. MERCEDES SANTUCCI",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM NOVO MUNDO",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5411641,
+      "lng": -47.5044353,
+      "address": "RUA OZETE DOS SANTOS 203, JARDIM NOVO MUNDO - VOTORANTIM",
+      "am": {
+        "re": "157561-9",
+        "name": "RAFAEL DA SILVA DE OLIVEIRA",
+        "rank": "Cb PM",
+        "phone": "15 99671-6830"
+      },
+      "pm": {
+        "re": "111653-3",
+        "name": "ANDERSON DOS SANTOS SILVA",
+        "rank": "Cb PM",
+        "phone": "15997228740"
+      },
+      "amOfficers": [
+        {
+          "re": "157561-9",
+          "name": "RAFAEL DA SILVA DE OLIVEIRA",
+          "rank": "Cb PM",
+          "phone": "15 99671-6830"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "111653-3",
+          "name": "ANDERSON DOS SANTOS SILVA",
+          "rank": "Cb PM",
+          "phone": "15997228740"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--profa--patricia-maria-dos-santos-votorantim",
+      "school": "EMEF. PROFA. PATRICIA MARIA DOS SANTOS",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM SAO MATHEUS",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5397596,
+      "lng": -47.4081871,
+      "address": "RUA BENEDITO GALERO 99, JARDIM SAO MATHEUS - VOTORANTIM",
+      "am": {
+        "re": "210709-A",
+        "name": "GILIARD LUCAS DE LIMA",
+        "rank": "Sd PM",
+        "phone": "15988197207"
+      },
+      "pm": {
+        "re": "161288-3",
+        "name": "WELBERTH LYNCONL ROSA RODRIGUES",
+        "rank": "Sd PM",
+        "phone": "15991399291"
+      },
+      "amOfficers": [
+        {
+          "re": "210709-A",
+          "name": "GILIARD LUCAS DE LIMA",
+          "rank": "Sd PM",
+          "phone": "15988197207"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "161288-3",
+          "name": "WELBERTH LYNCONL ROSA RODRIGUES",
+          "rank": "Sd PM",
+          "phone": "15991399291"
+        }
+      ]
+    },
+    {
+      "id": "school-emeief-antonio-marciano-votorantim",
+      "school": "EMEIEF ANTONIO MARCIANO",
+      "city": "VOTORANTIM",
+      "bairro": "PARQUE BELA VISTA",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5436721,
+      "lng": -47.458044,
+      "address": "RUA SETE DE SETEMBRO 803, PARQUE BELA VISTA - VOTORANTIM",
+      "am": {
+        "re": "115296-3",
+        "name": "CLAUDIO SANTUCCI",
+        "rank": "Cb PM",
+        "phone": "11 98107-9473"
+      },
+      "pm": {
+        "re": "171083-3",
+        "name": "ANDERSON FABIANO FRIOLI",
+        "rank": "Sd PM",
+        "phone": "15981217650"
+      },
+      "amOfficers": [
+        {
+          "re": "115296-3",
+          "name": "CLAUDIO SANTUCCI",
+          "rank": "Cb PM",
+          "phone": "11 98107-9473"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "171083-3",
+          "name": "ANDERSON FABIANO FRIOLI",
+          "rank": "Sd PM",
+          "phone": "15981217650"
+        }
+      ]
+    },
+    {
+      "id": "school-emeief-eugenia-maria-da-silveira-votorantim",
+      "school": "EMEIEF EUGENIA MARIA DA SILVEIRA",
+      "city": "VOTORANTIM",
+      "bairro": "JARDIM TATIANA",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.54237,
+      "lng": -47.49166,
+      "address": "RUA ANISIO PEREIRA DO NASCIMENTO 109, JARDIM TATIANA - VOTORANTIM",
+      "am": {
+        "re": "142462-9",
+        "name": "OTAVIO PETROLA DA SILVA",
+        "rank": "Cb PM",
+        "phone": "11 95836-9977"
+      },
+      "pm": {
+        "re": "119550-6",
+        "name": "WILLIAM ADRIANO PEREIRA",
+        "rank": "1º Sgt PM",
+        "phone": "15988100360"
+      },
+      "amOfficers": [
+        {
+          "re": "142462-9",
+          "name": "OTAVIO PETROLA DA SILVA",
+          "rank": "Cb PM",
+          "phone": "11 95836-9977"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "119550-6",
+          "name": "WILLIAM ADRIANO PEREIRA",
+          "rank": "1º Sgt PM",
+          "phone": "15988100360"
+        }
+      ]
+    },
+    {
+      "id": "school-emeief-gerson-soares-de-arruda-votorantim",
+      "school": "EMEIEF GERSON SOARES DE ARRUDA",
+      "city": "VOTORANTIM",
+      "bairro": "PARQUE SAO JOAO",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5701087,
+      "lng": -47.4534781,
+      "address": "RUA MAURO ALMEIDA BARROS N 57, PARQUE SAO JOAO - VOTORANTIM",
+      "am": {
+        "re": "132551-5",
+        "name": "ALEX FERREIRA NOVAES",
+        "rank": "Cb PM",
+        "phone": "1599740-5697"
+      },
+      "pm": {
+        "re": "193912-2",
+        "name": "EVELLY FRANCINE ALVES PISKE",
+        "rank": "Cb PM",
+        "phone": "15997857797"
+      },
+      "amOfficers": [
+        {
+          "re": "132551-5",
+          "name": "ALEX FERREIRA NOVAES",
+          "rank": "Cb PM",
+          "phone": "1599740-5697"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "193912-2",
+          "name": "EVELLY FRANCINE ALVES PISKE",
+          "rank": "Cb PM",
+          "phone": "15997857797"
+        }
+      ]
+    },
+    {
+      "id": "school-emeief-gilberto-dos-santos-votorantim",
+      "school": "EMEIEF GILBERTO DOS SANTOS",
+      "city": "VOTORANTIM",
+      "bairro": "PARQUE JATAI II",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5713314,
+      "lng": -47.4586027,
+      "address": "RUA LUIS FRIAS S N, PARQUE JATAI II - VOTORANTIM",
+      "am": {
+        "re": "182057-5",
+        "name": "ELICSON FLORIANO CARRIEL",
+        "rank": "Sd PM",
+        "phone": "15 99675-5669"
+      },
+      "pm": {
+        "re": "129384-2",
+        "name": "VAGNER DE JESUS FIDELIS",
+        "rank": "Cb PM",
+        "phone": "11982259937"
+      },
+      "amOfficers": [
+        {
+          "re": "182057-5",
+          "name": "ELICSON FLORIANO CARRIEL",
+          "rank": "Sd PM",
+          "phone": "15 99675-5669"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "129384-2",
+          "name": "VAGNER DE JESUS FIDELIS",
+          "rank": "Cb PM",
+          "phone": "11982259937"
+        }
+      ]
+    },
+    {
+      "id": "school-emeief-prof--celia-pieroni-votorantim",
+      "school": "EMEIEF PROF.ª CÉLIA PIERONI",
+      "city": "VOTORANTIM",
+      "bairro": "VILA PEDROSO",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.57601,
+      "lng": -47.46462,
+      "address": "RUA ANTONIO ANTUNES DE ASSIS 35, VILA PEDROSO - VOTORANTIM",
+      "am": {
+        "re": "210790-2",
+        "name": "MURILO DE PAULA OLIVEIRA",
+        "rank": "Cb PM",
+        "phone": "1599750-6344"
+      },
+      "pm": {
+        "re": "146162-1",
+        "name": "HUDSON RODRIGO DOS SANTOS",
+        "rank": "Cb PM",
+        "phone": "15988145663"
+      },
+      "amOfficers": [
+        {
+          "re": "210790-2",
+          "name": "MURILO DE PAULA OLIVEIRA",
+          "rank": "Cb PM",
+          "phone": "1599750-6344"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "146162-1",
+          "name": "HUDSON RODRIGO DOS SANTOS",
+          "rank": "Cb PM",
+          "phone": "15988145663"
+        }
+      ]
+    },
+    {
+      "id": "school-emeief--betty-de-souza-oliveira-votorantim",
+      "school": "EMEIEF. BETTY DE SOUZA OLIVEIRA",
+      "city": "VOTORANTIM",
+      "bairro": "VILA DOMINGUES",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5539887,
+      "lng": -47.4601487,
+      "address": "AVENIDA SANTOS DUMONT 1450, VILA DOMINGUES - VOTORANTIM",
+      "am": {
+        "re": "201976-A",
+        "name": "JEAN CARLOS RODRIGUES CAMARGO",
+        "rank": "Sd PM",
+        "phone": "15 99663-4769"
+      },
+      "pm": {
+        "re": "190655-A",
+        "name": "CAROLINA LOPES DE MORAIS MORITA",
+        "rank": "Cb PM",
+        "phone": "15 99246-0660"
+      },
+      "amOfficers": [
+        {
+          "re": "201976-A",
+          "name": "JEAN CARLOS RODRIGUES CAMARGO",
+          "rank": "Sd PM",
+          "phone": "15 99663-4769"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "190655-A",
+          "name": "CAROLINA LOPES DE MORAIS MORITA",
+          "rank": "Cb PM",
+          "phone": "15 99246-0660"
+        }
+      ]
+    },
+    {
+      "id": "school-emeief--helena-pereira-de-moraes-votorantim",
+      "school": "EMEIEF. HELENA PEREIRA DE MORAES",
+      "city": "VOTORANTIM",
+      "bairro": "CENTRO",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5430433,
+      "lng": -47.4458607,
+      "address": "AV. MARGINAL VEREADOR NEWTON VIEIRA SOARES 291, CENTRO - VOTORANTIM",
+      "am": {
+        "re": "144913-3",
+        "name": "THAYSA MARYS LIMA MAGIORE",
+        "rank": "Cb PM",
+        "phone": "15 9973-3119"
+      },
+      "pm": {
+        "re": "134307-6",
+        "name": "ERICSON WILLIAM RODRIGUES VIANA",
+        "rank": "Cb PM",
+        "phone": "15 97404-9090"
+      },
+      "amOfficers": [
+        {
+          "re": "144913-3",
+          "name": "THAYSA MARYS LIMA MAGIORE",
+          "rank": "Cb PM",
+          "phone": "15 9973-3119"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "134307-6",
+          "name": "ERICSON WILLIAM RODRIGUES VIANA",
+          "rank": "Cb PM",
+          "phone": "15 97404-9090"
+        }
+      ]
+    },
+    {
+      "id": "school-emeief--lucinda-rodrigues-pereira-inacio-votorantim",
+      "school": "EMEIEF. LUCINDA RODRIGUES PEREIRA INACIO",
+      "city": "VOTORANTIM",
+      "bairro": "PARQUE MORUMBI",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5393546,
+      "lng": -47.4615747,
+      "address": "RUA HORTENCIA MACIEL DE CAMARGO 154, PARQUE MORUMBI - VOTORANTIM",
+      "am": {
+        "re": "121723-2",
+        "name": "JONATAS NOGUEIRA DA SILVA",
+        "rank": "Cb PM",
+        "phone": "15 98828-1111"
+      },
+      "pm": {
+        "re": "211213-2",
+        "name": "EDUARDO LOPES DE CARVALHO",
+        "rank": "Sd PM",
+        "phone": "17981719325"
+      },
+      "amOfficers": [
+        {
+          "re": "121723-2",
+          "name": "JONATAS NOGUEIRA DA SILVA",
+          "rank": "Cb PM",
+          "phone": "15 98828-1111"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "211213-2",
+          "name": "EDUARDO LOPES DE CARVALHO",
+          "rank": "Sd PM",
+          "phone": "17981719325"
+        }
+      ]
+    },
+    {
+      "id": "school-emeief--maria-helena-de-moraes-scripillitti-votorantim",
+      "school": "EMEIEF. MARIA HELENA DE MORAES SCRIPILLITTI",
+      "city": "VOTORANTIM",
+      "bairro": "VOTOCEL",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5557852,
+      "lng": -47.4426436,
+      "address": "RUA EUGENIO ILDEFONSO 111, VOTOCEL - VOTORANTIM",
+      "am": {
+        "re": "181515-6",
+        "name": "AMANDA GOMES DE ALMEIDA",
+        "rank": "Cb PM",
+        "phone": "15 99192-2419"
+      },
+      "pm": {
+        "re": "150592-A",
+        "name": "NILTON LOPES AMENDOLA",
+        "rank": "Cb PM",
+        "phone": "15997255699"
+      },
+      "amOfficers": [
+        {
+          "re": "181515-6",
+          "name": "AMANDA GOMES DE ALMEIDA",
+          "rank": "Cb PM",
+          "phone": "15 99192-2419"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "150592-A",
+          "name": "NILTON LOPES AMENDOLA",
+          "rank": "Cb PM",
+          "phone": "15997255699"
+        }
+      ]
+    },
+    {
+      "id": "school-emeief--prof--candido-dos-santos-votorantim",
+      "school": "EMEIEF. PROF. CANDIDO DOS SANTOS",
+      "city": "VOTORANTIM",
+      "bairro": "GREEN VALLEY",
+      "zone": "220",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.558549,
+      "lng": -47.490696,
+      "address": "RUA ANTONIO PEREIRA DE ALMEIDA 27, GREEN VALLEY - VOTORANTIM",
+      "am": {
+        "re": "124472-8",
+        "name": "DIEVERSON TELES ANTUNES",
+        "rank": "Cb PM",
+        "phone": "15 99743-7940"
+      },
+      "pm": {
+        "re": "191693-9",
+        "name": "EDMAR ALVES FERREIRA JUNIOR",
+        "rank": "Sd PM",
+        "phone": "15996585776"
+      },
+      "amOfficers": [
+        {
+          "re": "124472-8",
+          "name": "DIEVERSON TELES ANTUNES",
+          "rank": "Cb PM",
+          "phone": "15 99743-7940"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "191693-9",
+          "name": "EDMAR ALVES FERREIRA JUNIOR",
+          "rank": "Sd PM",
+          "phone": "15996585776"
+        }
+      ]
+    },
+    {
+      "id": "school-cartorio-de-ibiuna-ibiuna",
+      "school": "CARTORIO DE IBIUNA",
+      "city": "IBIÚNA",
+      "bairro": "JD DISNEYLANDIA",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6558,
+      "lng": -47.2215,
+      "address": "AV SAO SEBASTIAO 349, CENTRO - IBIÚNA",
+      "am": {
+        "re": "120697-4",
+        "name": "THIAGO DE ANDRADE SILVA MONTAGNANA Amb",
+        "rank": "Sd PM",
+        "phone": "15 99719-2142"
+      },
+      "pm": {
+        "re": "152280-9",
+        "name": "FELIPE CORDEIRO DE MEDELO",
+        "rank": "Cb PM",
+        "phone": "15 99701-8768"
+      },
+      "amOfficers": [
+        {
+          "re": "120697-4",
+          "name": "THIAGO DE ANDRADE SILVA MONTAGNANA Amb",
+          "rank": "Sd PM",
+          "phone": "15 99719-2142"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "152280-9",
+          "name": "FELIPE CORDEIRO DE MEDELO",
+          "rank": "Cb PM",
+          "phone": "15 99701-8768"
+        }
+      ]
+    },
+    {
+      "id": "school-e-m-prof--calil-rahal-neto-ibiuna",
+      "school": "E M PROF. CALIL RAHAL NETO",
+      "city": "IBIÚNA",
+      "bairro": "CAPIM AZEDO",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6789693,
+      "lng": -47.2069621,
+      "address": "RUA PROJETA 620, CAPIM AZEDO - IBIÚNA",
+      "am": {
+        "re": "137863-5",
+        "name": "SAMIR ALVES DE ALENCAR",
+        "rank": "Cb PM",
+        "phone": "11 99999-6916"
+      },
+      "pm": {
+        "re": "134711-0",
+        "name": "GLEBSON SOUZA RODRIGUES",
+        "rank": "Cb PM",
+        "phone": "15 99871-8912"
+      },
+      "amOfficers": [
+        {
+          "re": "137863-5",
+          "name": "SAMIR ALVES DE ALENCAR",
+          "rank": "Cb PM",
+          "phone": "11 99999-6916"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "134711-0",
+          "name": "GLEBSON SOUZA RODRIGUES",
+          "rank": "Cb PM",
+          "phone": "15 99871-8912"
+        }
+      ]
+    },
+    {
+      "id": "school-colegio-anglo-ibiuna---unidade-02-ibiuna",
+      "school": "COLEGIO ANGLO IBIUNA - UNIDADE 02",
+      "city": "IBIÚNA",
+      "bairro": "RIO DE UNA",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6640347,
+      "lng": -47.2268212,
+      "address": "RODOVIA BUNJIRO NAKAO KM 72 N 1149, RIO DE UNA - IBIÚNA",
+      "am": {
+        "re": "980368-8",
+        "name": "SAMUEL CONSERVANI RIBEIRO",
+        "rank": "Cb PM",
+        "phone": "15 99839-7770"
+      },
+      "pm": {
+        "re": "120653-2",
+        "name": "ITAMAR RODRIGUES",
+        "rank": "2º Sgt PM",
+        "phone": "15 99757-6855"
+      },
+      "amOfficers": [
+        {
+          "re": "980368-8",
+          "name": "SAMUEL CONSERVANI RIBEIRO",
+          "rank": "Cb PM",
+          "phone": "15 99839-7770"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "120653-2",
+          "name": "ITAMAR RODRIGUES",
+          "rank": "2º Sgt PM",
+          "phone": "15 99757-6855"
+        }
+      ]
+    },
+    {
+      "id": "school-colegio-dom-bosco-ibiuna",
+      "school": "COLEGIO DOM BOSCO",
+      "city": "IBIÚNA",
+      "bairro": "CENTRO",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6575016,
+      "lng": -47.2219634,
+      "address": "RUA CEL SALVADOR ROLIM DE FREITAS 290, CENTRO - IBIÚNA",
+      "am": {
+        "re": "124028-5",
+        "name": "HENRIQUE FRANCO DE ALMEIDA",
+        "rank": "Cb PM",
+        "phone": "11 99656-5401"
+      },
+      "pm": {
+        "re": "134118-9",
+        "name": "JOSÉ ROBERTO NUNES",
+        "rank": "Cb PM",
+        "phone": "15 99725-2485"
+      },
+      "amOfficers": [
+        {
+          "re": "124028-5",
+          "name": "HENRIQUE FRANCO DE ALMEIDA",
+          "rank": "Cb PM",
+          "phone": "11 99656-5401"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "134118-9",
+          "name": "JOSÉ ROBERTO NUNES",
+          "rank": "Cb PM",
+          "phone": "15 99725-2485"
+        }
+      ]
+    },
+    {
+      "id": "school-colegio-objetivo-ibiuna",
+      "school": "COLEGIO OBJETIVO",
+      "city": "IBIÚNA",
+      "bairro": "CENTRO",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6555724,
+      "lng": -47.2193678,
+      "address": "RUA RAIMUNDO SANTIAGO 110, CENTRO - IBIÚNA",
+      "am": {
+        "re": "136575-4",
+        "name": "LUAN FELIPE BARRETO DOS SANTOS",
+        "rank": "1º Sgt PM",
+        "phone": "11 94792-8922"
+      },
+      "pm": {
+        "re": "111933-8",
+        "name": "JOSÉ PEIXOTO DE ALMEIDA NETO",
+        "rank": "Cb PM",
+        "phone": "15 99718-1175"
+      },
+      "amOfficers": [
+        {
+          "re": "136575-4",
+          "name": "LUAN FELIPE BARRETO DOS SANTOS",
+          "rank": "1º Sgt PM",
+          "phone": "11 94792-8922"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "111933-8",
+          "name": "JOSÉ PEIXOTO DE ALMEIDA NETO",
+          "rank": "Cb PM",
+          "phone": "15 99718-1175"
+        }
+      ]
+    },
+    {
+      "id": "school-e--e--bairro-da-vargem-ibiuna",
+      "school": "E. E. BAIRRO DA VARGEM",
+      "city": "IBIÚNA",
+      "bairro": "VARGEM DO SALTO",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7496825,
+      "lng": -47.2661877,
+      "address": "RODOVIA JULIO DAL FABRO KM 13 5, VARGEM DO SALTO - IBIÚNA",
+      "am": {
+        "re": "150224-7",
+        "name": "JOSÉ HENRIQUE MACHADO DE GOES",
+        "rank": "Cb PM",
+        "phone": "15 99702-7116"
+      },
+      "pm": {
+        "re": "151648-5",
+        "name": "DANILO SANTOS DE ALMEIDA",
+        "rank": "Sd PM",
+        "phone": "15 99716-1022"
+      },
+      "amOfficers": [
+        {
+          "re": "150224-7",
+          "name": "JOSÉ HENRIQUE MACHADO DE GOES",
+          "rank": "Cb PM",
+          "phone": "15 99702-7116"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "151648-5",
+          "name": "DANILO SANTOS DE ALMEIDA",
+          "rank": "Sd PM",
+          "phone": "15 99716-1022"
+        }
+      ]
+    },
+    {
+      "id": "school-e-e--bairro-verava-ibiuna",
+      "school": "E.E. BAIRRO VERAVA",
+      "city": "IBIÚNA",
+      "bairro": "VERAVA",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7825265,
+      "lng": -47.0828661,
+      "address": "RUA 09 S N, VERAVA - IBIÚNA",
+      "am": {
+        "re": "160127-0",
+        "name": "ELIEZER ROSA MARTINS",
+        "rank": "Sd PM",
+        "phone": "15 98137-3685"
+      },
+      "pm": {
+        "re": "160127-0",
+        "name": "ELIEZER ROSA MARTINS",
+        "rank": "Sd PM",
+        "phone": "15 98137-3685"
+      },
+      "amOfficers": [
+        {
+          "re": "160127-0",
+          "name": "ELIEZER ROSA MARTINS",
+          "rank": "Sd PM",
+          "phone": "15 98137-3685"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "160127-0",
+          "name": "ELIEZER ROSA MARTINS",
+          "rank": "Sd PM",
+          "phone": "15 98137-3685"
+        }
+      ]
+    },
+    {
+      "id": "school-e-e--euclides-maria-borba-ibiuna",
+      "school": "E.E. EUCLIDES MARIA BORBA",
+      "city": "IBIÚNA",
+      "bairro": "VOTORANTIM",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.650714,
+      "lng": -47.1279443,
+      "address": "ROD BUNJIRO NAKAO KM 59 5, VOTORANTIM - IBIÚNA",
+      "am": {
+        "re": "191636-0",
+        "name": "JEFFERSON DE GODOY SANTOS",
+        "rank": "Sd PM",
+        "phone": "15 99700-9074"
+      },
+      "pm": {
+        "re": "191636-0",
+        "name": "JEFFERSON DE GODOY SANTOS",
+        "rank": "Sd PM",
+        "phone": "15 99700-9074"
+      },
+      "amOfficers": [
+        {
+          "re": "191636-0",
+          "name": "JEFFERSON DE GODOY SANTOS",
+          "rank": "Sd PM",
+          "phone": "15 99700-9074"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "191636-0",
+          "name": "JEFFERSON DE GODOY SANTOS",
+          "rank": "Sd PM",
+          "phone": "15 99700-9074"
+        }
+      ]
+    },
+    {
+      "id": "school-e-m--prof-vitoria-evany-miguelk-cordeiro---crianca-feliz--ibiuna",
+      "school": "E.M. PROF VITORIA EVANY MIGUELK CORDEIRO - CRIANCA FELIZ-",
+      "city": "IBIÚNA",
+      "bairro": "CENTRO",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6584322,
+      "lng": -47.2237079,
+      "address": "RUA JOAQUIM IGNACIO RODRIGUES S N, CENTRO - IBIÚNA",
+      "am": {
+        "re": "111788-2",
+        "name": "ANDRÉ XAVIER DE ANDRADE JÚNIOR",
+        "rank": "Cb PM",
+        "phone": "15 99766-7615"
+      },
+      "pm": {
+        "re": "111788-2",
+        "name": "ANDRÉ XAVIER DE ANDRADE JÚNIOR",
+        "rank": "Cb PM",
+        "phone": "15 99766-7615"
+      },
+      "amOfficers": [
+        {
+          "re": "111788-2",
+          "name": "ANDRÉ XAVIER DE ANDRADE JÚNIOR",
+          "rank": "Cb PM",
+          "phone": "15 99766-7615"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "111788-2",
+          "name": "ANDRÉ XAVIER DE ANDRADE JÚNIOR",
+          "rank": "Cb PM",
+          "phone": "15 99766-7615"
+        }
+      ]
+    },
+    {
+      "id": "school-ee-bairro-carmo-messias-ibiuna",
+      "school": "EE BAIRRO CARMO MESSIAS",
+      "city": "IBIÚNA",
+      "bairro": "CARMO MESSIAS",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7503675,
+      "lng": -47.0586828,
+      "address": "BAIRRO CARMO MESSIAS, CARMO MESSIAS - IBIÚNA",
+      "am": {
+        "re": "106385-5",
+        "name": "JOSÉ SEBASTIÃO MIGUEL SOBRINHO",
+        "rank": "Cb PM",
+        "phone": "11 94037-8283"
+      },
+      "pm": {
+        "re": "106385-5",
+        "name": "JOSÉ SEBASTIÃO MIGUEL SOBRINHO",
+        "rank": "Cb PM",
+        "phone": "11 94037-8283"
+      },
+      "amOfficers": [
+        {
+          "re": "106385-5",
+          "name": "JOSÉ SEBASTIÃO MIGUEL SOBRINHO",
+          "rank": "Cb PM",
+          "phone": "11 94037-8283"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "106385-5",
+          "name": "JOSÉ SEBASTIÃO MIGUEL SOBRINHO",
+          "rank": "Cb PM",
+          "phone": "11 94037-8283"
+        }
+      ]
+    },
+    {
+      "id": "school-ee-d-olimpia-falci-ibiuna",
+      "school": "EE D OLIMPIA FALCI",
+      "city": "IBIÚNA",
+      "bairro": "VILA CAMARGO",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6615872,
+      "lng": -47.2265937,
+      "address": "TRAV SERGIPE SN, VILA CAMARGO - IBIÚNA",
+      "am": {
+        "re": "157673-9",
+        "name": "VINÍCIUS ALVES DE ARAÚJO",
+        "rank": "Cb PM",
+        "phone": "15 99610-3898"
+      },
+      "pm": {
+        "re": "157673-9",
+        "name": "VINÍCIUS ALVES DE ARAÚJO",
+        "rank": "Cb PM",
+        "phone": "15 99610-3898"
+      },
+      "amOfficers": [
+        {
+          "re": "157673-9",
+          "name": "VINÍCIUS ALVES DE ARAÚJO",
+          "rank": "Cb PM",
+          "phone": "15 99610-3898"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "157673-9",
+          "name": "VINÍCIUS ALVES DE ARAÚJO",
+          "rank": "Cb PM",
+          "phone": "15 99610-3898"
+        }
+      ]
+    },
+    {
+      "id": "school-ee-frederico-marcicano-ibiuna",
+      "school": "EE FREDERICO MARCICANO",
+      "city": "IBIÚNA",
+      "bairro": "RESSACA",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6729644,
+      "lng": -47.29976,
+      "address": "AV JOAO CIPULO 51, RESSACA - IBIÚNA",
+      "am": {
+        "re": "142983-3",
+        "name": "MATHEUS SITONI MENDES PINTO",
+        "rank": "Cb PM",
+        "phone": "15 99778-5691"
+      },
+      "pm": {
+        "re": "990810-2",
+        "name": "CASSIO JUVINO FREITAS",
+        "rank": "Cb PM",
+        "phone": "15 99763-1524"
+      },
+      "amOfficers": [
+        {
+          "re": "142983-3",
+          "name": "MATHEUS SITONI MENDES PINTO",
+          "rank": "Cb PM",
+          "phone": "15 99778-5691"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "990810-2",
+          "name": "CASSIO JUVINO FREITAS",
+          "rank": "Cb PM",
+          "phone": "15 99763-1524"
+        }
+      ]
+    },
+    {
+      "id": "school-ee-lino-vieira-ruivo-ibiuna",
+      "school": "EE LINO VIEIRA RUIVO",
+      "city": "IBIÚNA",
+      "bairro": "PIAI",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6583241,
+      "lng": -47.2113267,
+      "address": "RODOVIA PRESIDENTE TANCREDO ALMEIDA NEVES KM 13, PIAI - IBIÚNA",
+      "am": {
+        "re": "135295-4",
+        "name": "ANSELMO RODRIGUES SOUSA",
+        "rank": "Cb PM",
+        "phone": "11 98730-9447"
+      },
+      "pm": {
+        "re": "135295-4",
+        "name": "ANSELMO RODRIGUES SOUSA",
+        "rank": "Cb PM",
+        "phone": "11 98730-9447"
+      },
+      "amOfficers": [
+        {
+          "re": "135295-4",
+          "name": "ANSELMO RODRIGUES SOUSA",
+          "rank": "Cb PM",
+          "phone": "11 98730-9447"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "135295-4",
+          "name": "ANSELMO RODRIGUES SOUSA",
+          "rank": "Cb PM",
+          "phone": "11 98730-9447"
+        }
+      ]
+    },
+    {
+      "id": "school-ee-maria-angerami-scalamandre-ibiuna",
+      "school": "EE MARIA ANGERAMI SCALAMANDRE",
+      "city": "IBIÚNA",
+      "bairro": "JARDIM NOVA IBIUNA",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6600006,
+      "lng": -47.212751,
+      "address": "R DR FRANCISCO SCALAMANDRE SOBRINHO S N, JARDIM NOVA IBIUNA - IBIÚNA",
+      "am": {
+        "re": "181280-7",
+        "name": "RAFAEL RUBIRA DOS REIS",
+        "rank": "Cb PM",
+        "phone": "15 99157-7565"
+      },
+      "pm": {
+        "re": "156753-5",
+        "name": "GUSTAVO DE ARAÚJO RODRIGUES",
+        "rank": "Cb PM",
+        "phone": "15 99736-5114"
+      },
+      "amOfficers": [
+        {
+          "re": "181280-7",
+          "name": "RAFAEL RUBIRA DOS REIS",
+          "rank": "Cb PM",
+          "phone": "15 99157-7565"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "156753-5",
+          "name": "GUSTAVO DE ARAÚJO RODRIGUES",
+          "rank": "Cb PM",
+          "phone": "15 99736-5114"
+        }
+      ]
+    },
+    {
+      "id": "school-ee-nazaria-cipriano-de-freitas-ibiuna",
+      "school": "EE NAZARIA CIPRIANO DE FREITAS",
+      "city": "IBIÚNA",
+      "bairro": "CAPIM AZEDO",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6682799,
+      "lng": -47.2179022,
+      "address": "RODOVIA TANCREDO DE ALMEIDA NEVES KM 03, CAPIM AZEDO - IBIÚNA",
+      "am": {
+        "re": "200566-2",
+        "name": "BRUNO TOLEDO VIEIRA DA SILVA",
+        "rank": "Cb PM",
+        "phone": "15 99612-6324"
+      },
+      "pm": {
+        "re": "151423-7",
+        "name": "LÉO JAIME GOMES DO AMARAL",
+        "rank": "Cb PM",
+        "phone": "11 94368-2382"
+      },
+      "amOfficers": [
+        {
+          "re": "200566-2",
+          "name": "BRUNO TOLEDO VIEIRA DA SILVA",
+          "rank": "Cb PM",
+          "phone": "15 99612-6324"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "151423-7",
+          "name": "LÉO JAIME GOMES DO AMARAL",
+          "rank": "Cb PM",
+          "phone": "11 94368-2382"
+        }
+      ]
+    },
+    {
+      "id": "school-ee-prof-roque-bastos-ibiuna",
+      "school": "EE PROF ROQUE BASTOS",
+      "city": "IBIÚNA",
+      "bairro": "CENTRO",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6528793,
+      "lng": -47.2194179,
+      "address": "R GREGORIO DE ALMEIDA LIMA 246, CENTRO - IBIÚNA",
+      "am": {
+        "re": "141207-8",
+        "name": "LEANDRO NUNES VIANA",
+        "rank": "Cb PM",
+        "phone": "11 97165-7219"
+      },
+      "pm": {
+        "re": "160820-7",
+        "name": "VINICIUS DE OLIVIERA CHAGAS",
+        "rank": "Cb PM",
+        "phone": "11 94211-2879"
+      },
+      "amOfficers": [
+        {
+          "re": "141207-8",
+          "name": "LEANDRO NUNES VIANA",
+          "rank": "Cb PM",
+          "phone": "11 97165-7219"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "160820-7",
+          "name": "VINICIUS DE OLIVIERA CHAGAS",
+          "rank": "Cb PM",
+          "phone": "11 94211-2879"
+        }
+      ]
+    },
+    {
+      "id": "school-ee-profa-laurinda-vieira-pinto-ibiuna",
+      "school": "EE PROFA LAURINDA VIEIRA PINTO",
+      "city": "IBIÚNA",
+      "bairro": "JARDIM NOVA IBIUNA",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6595667,
+      "lng": -47.212003,
+      "address": "RUA VENEZUELA 60, JARDIM NOVA IBIUNA - IBIÚNA",
+      "am": {
+        "re": "126284-0",
+        "name": "ROGÉRIO NUNES",
+        "rank": "Cb PM",
+        "phone": "15 99745-1703"
+      },
+      "pm": {
+        "re": "122461-1",
+        "name": "RENAN DA SILVA BRITO",
+        "rank": "Cb PM",
+        "phone": "15 99791-3550"
+      },
+      "amOfficers": [
+        {
+          "re": "126284-0",
+          "name": "ROGÉRIO NUNES",
+          "rank": "Cb PM",
+          "phone": "15 99745-1703"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "122461-1",
+          "name": "RENAN DA SILVA BRITO",
+          "rank": "Cb PM",
+          "phone": "15 99791-3550"
+        }
+      ]
+    },
+    {
+      "id": "school-ee-profa-lurdes-penna-carmelo-ibiuna",
+      "school": "EE PROFA LURDES PENNA CARMELO",
+      "city": "IBIÚNA",
+      "bairro": "PARURU",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.691146,
+      "lng": -47.3402279,
+      "address": "RODOV BUNJIRO NAKAO KM 87, PARURU - IBIÚNA",
+      "am": {
+        "re": "111944-3",
+        "name": "DEIVID RAMOS BACOVISKI",
+        "rank": "2º Sgt PM",
+        "phone": "15 99155-0661"
+      },
+      "pm": {
+        "re": "111944-3",
+        "name": "DEIVID RAMOS BACOVISKI",
+        "rank": "2º Sgt PM",
+        "phone": "15 99155-0661"
+      },
+      "amOfficers": [
+        {
+          "re": "111944-3",
+          "name": "DEIVID RAMOS BACOVISKI",
+          "rank": "2º Sgt PM",
+          "phone": "15 99155-0661"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "111944-3",
+          "name": "DEIVID RAMOS BACOVISKI",
+          "rank": "2º Sgt PM",
+          "phone": "15 99155-0661"
+        }
+      ]
+    },
+    {
+      "id": "school-escola-cooperativa-de-ibiuna-ibiuna",
+      "school": "ESCOLA COOPERATIVA DE IBIUNA",
+      "city": "IBIÚNA",
+      "bairro": "CENTRO",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6581328,
+      "lng": -47.2171848,
+      "address": "AV SAO SEBASTIAO 153, CENTRO - IBIÚNA",
+      "am": {
+        "re": "991890-6",
+        "name": "CLOVIS DA SILVA",
+        "rank": "1º Sgt PM",
+        "phone": "15 99674-0319"
+      },
+      "pm": {
+        "re": "128937-3",
+        "name": "EDERSON BUAVA RIBEIRO",
+        "rank": "1º Sgt PM",
+        "phone": "15 99806-3392"
+      },
+      "amOfficers": [
+        {
+          "re": "991890-6",
+          "name": "CLOVIS DA SILVA",
+          "rank": "1º Sgt PM",
+          "phone": "15 99674-0319"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "128937-3",
+          "name": "EDERSON BUAVA RIBEIRO",
+          "rank": "1º Sgt PM",
+          "phone": "15 99806-3392"
+        }
+      ]
+    },
+    {
+      "id": "school-escola-municipal-moyses-jose-godinho-ibiuna",
+      "school": "ESCOLA MUNICIPAL MOYSES JOSE GODINHO",
+      "city": "IBIÚNA",
+      "bairro": "CAMPO VERDE",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6670251,
+      "lng": -47.2547874,
+      "address": "ESTRADA MUNICIPAL DO CAMPO VERDE S N, CAMPO VERDE - IBIÚNA",
+      "am": {
+        "re": "192401-0",
+        "name": "LEANDRO MARTINS DE OLIVEIRA",
+        "rank": "Sd PM",
+        "phone": "15 99799-5288"
+      },
+      "pm": {
+        "re": "146738-7",
+        "name": "CELSO RABELLO JUNIOR",
+        "rank": "Cb PM",
+        "phone": "15 99715-5666"
+      },
+      "amOfficers": [
+        {
+          "re": "192401-0",
+          "name": "LEANDRO MARTINS DE OLIVEIRA",
+          "rank": "Sd PM",
+          "phone": "15 99799-5288"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "146738-7",
+          "name": "CELSO RABELLO JUNIOR",
+          "rank": "Cb PM",
+          "phone": "15 99715-5666"
+        }
+      ]
+    },
+    {
+      "id": "school-escola-municipal-waldomiro-antonio-soares-ibiuna",
+      "school": "ESCOLA MUNICIPAL WALDOMIRO ANTONIO SOARES",
+      "city": "IBIÚNA",
+      "bairro": "VERAVA",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.6920389,
+      "lng": -47.1086176,
+      "address": "ESTRADA VICINAL VEREADOR ERNESTO PIRES DE OLIVEIRA S/N, VERAVA - IBIÚNA",
+      "am": {
+        "re": "210479-2",
+        "name": "WELINGTON MATTOS DA SILVA",
+        "rank": "Sd PM",
+        "phone": "11 95570-6251"
+      },
+      "pm": {
+        "re": "210479-2",
+        "name": "WELINGTON MATTOS DA SILVA",
+        "rank": "Sd PM",
+        "phone": "11 95570-6251"
+      },
+      "amOfficers": [
+        {
+          "re": "210479-2",
+          "name": "WELINGTON MATTOS DA SILVA",
+          "rank": "Sd PM",
+          "phone": "11 95570-6251"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "210479-2",
+          "name": "WELINGTON MATTOS DA SILVA",
+          "rank": "Sd PM",
+          "phone": "11 95570-6251"
+        }
+      ]
+    },
+    {
+      "id": "school-escola-municipal-zeni-soares-ramalho-ibiuna",
+      "school": "ESCOLA MUNICIPAL ZENI SOARES RAMALHO",
+      "city": "IBIÚNA",
+      "bairro": "LAGEADINHO",
+      "zone": "191",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.69934,
+      "lng": -47.17378,
+      "address": "ESTRADA MUNICIPAL BAIRRO LAGEADINHO S/N, LAGEADINHO - IBIÚNA",
+      "am": {
+        "re": "150468-1",
+        "name": "RENATO APARECIDO DA CUNHA SILVA",
+        "rank": "Cb PM",
+        "phone": "15 99737-5645"
+      },
+      "pm": {
+        "re": "150468-1",
+        "name": "RENATO APARECIDO DA CUNHA SILVA",
+        "rank": "Cb PM",
+        "phone": "15 99737-5645"
+      },
+      "amOfficers": [
+        {
+          "re": "150468-1",
+          "name": "RENATO APARECIDO DA CUNHA SILVA",
+          "rank": "Cb PM",
+          "phone": "15 99737-5645"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "150468-1",
+          "name": "RENATO APARECIDO DA CUNHA SILVA",
+          "rank": "Cb PM",
+          "phone": "15 99737-5645"
+        }
+      ]
+    },
+    {
+      "id": "school-cartorio-de-piedade-piedade",
+      "school": "CARTORIO DE PIEDADE",
+      "city": "PIEDADE",
+      "bairro": "CENTRO",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7125,
+      "lng": -47.426,
+      "address": "RUA BENJAMIN CONSTANT 168, CENTRO - PIEDADE",
+      "am": {
+        "re": "133783-1",
+        "name": "GABRIEL RAMOS MOURA",
+        "rank": "Cb PM",
+        "phone": "15 99741-5949"
+      },
+      "pm": {
+        "re": "",
+        "name": "GCM",
+        "rank": "Sd PM",
+        "phone": ""
+      },
+      "amOfficers": [
+        {
+          "re": "133783-1",
+          "name": "GABRIEL RAMOS MOURA",
+          "rank": "Cb PM",
+          "phone": "15 99741-5949"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "",
+          "name": "GCM",
+          "rank": "Sd PM",
+          "phone": ""
+        }
+      ]
+    },
+    {
+      "id": "school-cemei-antonio-rolim-da-silva-piedade",
+      "school": "CEMEI ANTONIO ROLIM DA SILVA",
+      "city": "PIEDADE",
+      "bairro": "CENTRO",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7175285,
+      "lng": -47.4111533,
+      "address": "RUA PETROLANDIA 50, CENTRO - PIEDADE",
+      "am": {
+        "re": "154371-7",
+        "name": "FELIPE ESCANHOELA",
+        "rank": "Cb PM",
+        "phone": "15 99730-7507"
+      },
+      "pm": {
+        "re": "148302-1",
+        "name": "NANDER RAFAEL BRUMER CAMPANHOLI",
+        "rank": "Cb PM",
+        "phone": "15 99800-0788"
+      },
+      "amOfficers": [
+        {
+          "re": "154371-7",
+          "name": "FELIPE ESCANHOELA",
+          "rank": "Cb PM",
+          "phone": "15 99730-7507"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "148302-1",
+          "name": "NANDER RAFAEL BRUMER CAMPANHOLI",
+          "rank": "Cb PM",
+          "phone": "15 99800-0788"
+        }
+      ]
+    },
+    {
+      "id": "school-cemei-profa-leda-freire-gomes-piedade",
+      "school": "CEMEI PROFA LEDA FREIRE GOMES",
+      "city": "PIEDADE",
+      "bairro": "PARQUE DA TORRE",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7173406,
+      "lng": -47.4100433,
+      "address": "RUA FRANCISCO ANTONIO CORREA 481, PARQUE DA TORRE - PIEDADE",
+      "am": {
+        "re": "124942-8",
+        "name": "ROGÉRIO XAVIER DE ALMEIDA",
+        "rank": "Cb PM",
+        "phone": "15 99754-6304"
+      },
+      "pm": {
+        "re": "124942-8",
+        "name": "ROGÉRIO XAVIER DE ALMEIDA",
+        "rank": "Cb PM",
+        "phone": "15 99754-6304"
+      },
+      "amOfficers": [
+        {
+          "re": "124942-8",
+          "name": "ROGÉRIO XAVIER DE ALMEIDA",
+          "rank": "Cb PM",
+          "phone": "15 99754-6304"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "124942-8",
+          "name": "ROGÉRIO XAVIER DE ALMEIDA",
+          "rank": "Cb PM",
+          "phone": "15 99754-6304"
+        }
+      ]
+    },
+    {
+      "id": "school-cemei-profa-maria-adriana-marciano-caminho-do-sol-piedade",
+      "school": "CEMEI PROFA MARIA ADRIANA MARCIANO (CAMINHO DO SOL)",
+      "city": "PIEDADE",
+      "bairro": "PARQUE DA TORRE",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7174,
+      "lng": -47.4102,
+      "address": "RUA CONEGO GIORGIO MUSIZZANO 20, PARQUE DA TORRE - PIEDADE",
+      "am": {
+        "re": "155031-4",
+        "name": "JULIO CESAR GARCIA LEZIER",
+        "rank": "Cb PM",
+        "phone": "15 99798-6768"
+      },
+      "pm": {
+        "re": "155031-4",
+        "name": "JULIO CESAR GARCIA LEZIER",
+        "rank": "Cb PM",
+        "phone": "15 99798-6768"
+      },
+      "amOfficers": [
+        {
+          "re": "155031-4",
+          "name": "JULIO CESAR GARCIA LEZIER",
+          "rank": "Cb PM",
+          "phone": "15 99798-6768"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "155031-4",
+          "name": "JULIO CESAR GARCIA LEZIER",
+          "rank": "Cb PM",
+          "phone": "15 99798-6768"
+        }
+      ]
+    },
+    {
+      "id": "school-cemei-sylvino-santos-netto-piedade",
+      "school": "CEMEI SYLVINO SANTOS NETTO",
+      "city": "PIEDADE",
+      "bairro": "JARDIM SAO BARTOLOMEU",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7054793,
+      "lng": -47.4245401,
+      "address": "RUA SAO BARTOLOMEU S N, JARDIM SAO BARTOLOMEU - PIEDADE",
+      "am": {
+        "re": "111827-7",
+        "name": "EDILBERTO AP. CORREA DA FONSECA",
+        "rank": "Cb PM",
+        "phone": "15 99756-9488"
+      },
+      "pm": {
+        "re": "137879-1",
+        "name": "RAUL LINCON DIAS PAIÃO",
+        "rank": "Cb PM",
+        "phone": "15 99606-4945"
+      },
+      "amOfficers": [
+        {
+          "re": "111827-7",
+          "name": "EDILBERTO AP. CORREA DA FONSECA",
+          "rank": "Cb PM",
+          "phone": "15 99756-9488"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "137879-1",
+          "name": "RAUL LINCON DIAS PAIÃO",
+          "rank": "Cb PM",
+          "phone": "15 99606-4945"
+        }
+      ]
+    },
+    {
+      "id": "school-colegio-monteiro-lobato---anglo-piedade",
+      "school": "COLEGIO MONTEIRO LOBATO - ANGLO",
+      "city": "PIEDADE",
+      "bairro": "CECAP",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7196281,
+      "lng": -47.4075457,
+      "address": "RUA CHOSAKO NOHAMA 431, CECAP - PIEDADE",
+      "am": {
+        "re": "146177-0",
+        "name": "LUCAS BATISTA DE OLIVEIRA",
+        "rank": "Cb PM",
+        "phone": "15 99778-8786"
+      },
+      "pm": {
+        "re": "146177-0",
+        "name": "LUCAS BATISTA DE OLIVEIRA",
+        "rank": "Cb PM",
+        "phone": "15 99778-8786"
+      },
+      "amOfficers": [
+        {
+          "re": "146177-0",
+          "name": "LUCAS BATISTA DE OLIVEIRA",
+          "rank": "Cb PM",
+          "phone": "15 99778-8786"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "146177-0",
+          "name": "LUCAS BATISTA DE OLIVEIRA",
+          "rank": "Cb PM",
+          "phone": "15 99778-8786"
+        }
+      ]
+    },
+    {
+      "id": "school-colegio-objetivo-piedade-piedade",
+      "school": "COLEGIO OBJETIVO PIEDADE",
+      "city": "PIEDADE",
+      "bairro": "CENTRO",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7144379,
+      "lng": -47.4159079,
+      "address": "R. BENJAMIN CONSTANT 81, CENTRO - PIEDADE",
+      "am": {
+        "re": "170069-3",
+        "name": "PRISCILA APARECIDA DO NASCIMENTO",
+        "rank": "Sd PM",
+        "phone": "15 99823-4683"
+      },
+      "pm": {
+        "re": "133730-A",
+        "name": "WAGNER DE OLIVEIRA GUEDES",
+        "rank": "Cb PM",
+        "phone": "15 99612-3251"
+      },
+      "amOfficers": [
+        {
+          "re": "170069-3",
+          "name": "PRISCILA APARECIDA DO NASCIMENTO",
+          "rank": "Sd PM",
+          "phone": "15 99823-4683"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "133730-A",
+          "name": "WAGNER DE OLIVEIRA GUEDES",
+          "rank": "Cb PM",
+          "phone": "15 99612-3251"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--prof--carlos-augusto-de-camargo-piedade",
+      "school": "EE. PROF. CARLOS AUGUSTO DE CAMARGO",
+      "city": "PIEDADE",
+      "bairro": "CENTRO",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7159283,
+      "lng": -47.4187185,
+      "address": "RUA VICENTE GARCIA N 296, CENTRO - PIEDADE",
+      "am": {
+        "re": "151626-4",
+        "name": "MARCOS ROBERTO N. DE FREITAS",
+        "rank": "Cb PM",
+        "phone": "15 99648-8656"
+      },
+      "pm": {
+        "re": "193551-8",
+        "name": "DANIEL MENDES DA SILVA LIMA",
+        "rank": "Sd PM",
+        "phone": "15 99714-3697"
+      },
+      "amOfficers": [
+        {
+          "re": "151626-4",
+          "name": "MARCOS ROBERTO N. DE FREITAS",
+          "rank": "Cb PM",
+          "phone": "15 99648-8656"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "193551-8",
+          "name": "DANIEL MENDES DA SILVA LIMA",
+          "rank": "Sd PM",
+          "phone": "15 99714-3697"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--profa-maria-paula-ramalho-paes-piedade",
+      "school": "EE. PROFA MARIA PAULA RAMALHO PAES",
+      "city": "PIEDADE",
+      "bairro": "PARQUE DA TORRE",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7181123,
+      "lng": -47.4095663,
+      "address": "FRANCISCO ANTONIO CORREA, PARQUE DA TORRE - PIEDADE",
+      "am": {
+        "re": "124942-8",
+        "name": "ROGERIO XAVIER DE ALMEIDA",
+        "rank": "Cb PM",
+        "phone": "15 99754-6304"
+      },
+      "pm": {
+        "re": "124942-8",
+        "name": "ROGERIO XAVIER DE ALMEIDA",
+        "rank": "Cb PM",
+        "phone": "15 99754-6304"
+      },
+      "amOfficers": [
+        {
+          "re": "124942-8",
+          "name": "ROGERIO XAVIER DE ALMEIDA",
+          "rank": "Cb PM",
+          "phone": "15 99754-6304"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "124942-8",
+          "name": "ROGERIO XAVIER DE ALMEIDA",
+          "rank": "Cb PM",
+          "phone": "15 99754-6304"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--profa-theodora-de-camargo-ayres-piedade",
+      "school": "EE. PROFA THEODORA DE CAMARGO AYRES",
+      "city": "PIEDADE",
+      "bairro": "JARDIM SAO BARTOLOMEU",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.705426,
+      "lng": -47.4257443,
+      "address": "RUA MARTHA ZANFIROV DE CAMARGO 20, JARDIM SAO BARTOLOMEU - PIEDADE",
+      "am": {
+        "re": "241160-1",
+        "name": "THAIS MARIANO AIRES DE OLIVEIRA",
+        "rank": "Sd PM",
+        "phone": "15 99683-3425"
+      },
+      "pm": {
+        "re": "131479-3",
+        "name": "PAULO ROBERTO STEFANI JUNIOR - FT",
+        "rank": "Cb PM",
+        "phone": "15 99854-0533"
+      },
+      "amOfficers": [
+        {
+          "re": "241160-1",
+          "name": "THAIS MARIANO AIRES DE OLIVEIRA",
+          "rank": "Sd PM",
+          "phone": "15 99683-3425"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "131479-3",
+          "name": "PAULO ROBERTO STEFANI JUNIOR - FT",
+          "rank": "Cb PM",
+          "phone": "15 99854-0533"
+        }
+      ]
+    },
+    {
+      "id": "school-emef-conego-jose-rodrigues-de-oliveira-piedade",
+      "school": "EMEF CONEGO JOSE RODRIGUES DE OLIVEIRA",
+      "city": "PIEDADE",
+      "bairro": "CENTRO",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7144252,
+      "lng": -47.4160354,
+      "address": "R BENJAMIM CONSTANT 85, CENTRO - PIEDADE",
+      "am": {
+        "re": "111834-0",
+        "name": "FERNANDO VIEIRA DIAS ENIS",
+        "rank": "Cb PM",
+        "phone": "15 99770-1732"
+      },
+      "pm": {
+        "re": "133730-A",
+        "name": "WAGNER DE OLIVEIRA GUEDES",
+        "rank": "Cb PM",
+        "phone": "15 99612-3251"
+      },
+      "amOfficers": [
+        {
+          "re": "111834-0",
+          "name": "FERNANDO VIEIRA DIAS ENIS",
+          "rank": "Cb PM",
+          "phone": "15 99770-1732"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "133730-A",
+          "name": "WAGNER DE OLIVEIRA GUEDES",
+          "rank": "Cb PM",
+          "phone": "15 99612-3251"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--nelsina-ayres-bueno-abreu-piedade",
+      "school": "EMEF. NELSINA AYRES BUENO ABREU",
+      "city": "PIEDADE",
+      "bairro": "CENTRO",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7081303,
+      "lng": -47.4358805,
+      "address": "RUA LOUIS FRANCISCON S N. PAULAS E MENDES, CENTRO - PIEDADE",
+      "am": {
+        "re": "132006-8",
+        "name": "THIAGO ALESSANDRO SOARES",
+        "rank": "Cb PM",
+        "phone": "15 97404-1975"
+      },
+      "pm": {
+        "re": "154160-9",
+        "name": "AMANDA LEME PIRES REIS DE SOUSA",
+        "rank": "Sd PM",
+        "phone": "15 98137-3778"
+      },
+      "amOfficers": [
+        {
+          "re": "132006-8",
+          "name": "THIAGO ALESSANDRO SOARES",
+          "rank": "Cb PM",
+          "phone": "15 97404-1975"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "154160-9",
+          "name": "AMANDA LEME PIRES REIS DE SOUSA",
+          "rank": "Sd PM",
+          "phone": "15 98137-3778"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--profa--sylvia-de-camargo-baldy-piedade",
+      "school": "EMEF. PROFA. SYLVIA DE CAMARGO BALDY",
+      "city": "PIEDADE",
+      "bairro": "VILA MORAES",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7655868,
+      "lng": -47.4144153,
+      "address": "RUA LAURINDO VIEIRA CARDOSO 65, VILA MORAES - PIEDADE",
+      "am": {
+        "re": "148302-1",
+        "name": "NANDER RAFAEL BRUMER CAMPANHOLI",
+        "rank": "Cb PM",
+        "phone": "15 99800-0788"
+      },
+      "pm": {
+        "re": "157842-1",
+        "name": "VINICIUS ROBERTO F. SONNENBERG",
+        "rank": "Sd PM",
+        "phone": "15 99815-2368"
+      },
+      "amOfficers": [
+        {
+          "re": "148302-1",
+          "name": "NANDER RAFAEL BRUMER CAMPANHOLI",
+          "rank": "Cb PM",
+          "phone": "15 99800-0788"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "157842-1",
+          "name": "VINICIUS ROBERTO F. SONNENBERG",
+          "rank": "Sd PM",
+          "phone": "15 99815-2368"
+        }
+      ]
+    },
+    {
+      "id": "school-emef-glauca-ramalho-de-camargo-aranha-piedade",
+      "school": "EMEF.GLAUCA RAMALHO DE CAMARGO ARANHA",
+      "city": "PIEDADE",
+      "bairro": "COTIANOS",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7279816,
+      "lng": -47.4199572,
+      "address": "RUA CAPITAO MORAES 1527, COTIANOS - PIEDADE",
+      "am": {
+        "re": "147933-4",
+        "name": "LEONARDO DE ARRUDA",
+        "rank": "Cb PM",
+        "phone": "15 99827-5520"
+      },
+      "pm": {
+        "re": "147933-4",
+        "name": "LEONARDO DE ARRUDA",
+        "rank": "Cb PM",
+        "phone": "15 99827-5520"
+      },
+      "amOfficers": [
+        {
+          "re": "147933-4",
+          "name": "LEONARDO DE ARRUDA",
+          "rank": "Cb PM",
+          "phone": "15 99827-5520"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "147933-4",
+          "name": "LEONARDO DE ARRUDA",
+          "rank": "Cb PM",
+          "phone": "15 99827-5520"
+        }
+      ]
+    },
+    {
+      "id": "school-emeief--maria-jose-marciano-de-abreu-piedade",
+      "school": "EMEIEF. MARIA JOSE MARCIANO DE ABREU",
+      "city": "PIEDADE",
+      "bairro": "VILA QUINTINO",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.7095425,
+      "lng": -47.4060324,
+      "address": "RUA JOAO GONCALVES S N, VILA QUINTINO - PIEDADE",
+      "am": {
+        "re": "194771-A",
+        "name": "HENRIQUE FRANCISCO SOARES",
+        "rank": "Sd PM",
+        "phone": "15 99641-7447"
+      },
+      "pm": {
+        "re": "194771-A",
+        "name": "HENRIQUE FRANCISCO SOARES",
+        "rank": "Sd PM",
+        "phone": "15 99641-7447"
+      },
+      "amOfficers": [
+        {
+          "re": "194771-A",
+          "name": "HENRIQUE FRANCISCO SOARES",
+          "rank": "Sd PM",
+          "phone": "15 99641-7447"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "194771-A",
+          "name": "HENRIQUE FRANCISCO SOARES",
+          "rank": "Sd PM",
+          "phone": "15 99641-7447"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--cel--joao-rosa-tapirai",
+      "school": "EE. CEL. JOAO ROSA",
+      "city": "TAPIRAÍ",
+      "bairro": "CENTRO",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.9620944,
+      "lng": -47.5049722,
+      "address": "AV. SANTA CATARINA 57, CENTRO - TAPIRAÍ",
+      "am": {
+        "re": "139961-6",
+        "name": "MARCIO DE MORAES CUSTÓDIO",
+        "rank": "Cb PM",
+        "phone": "15 99852-4562"
+      },
+      "pm": {
+        "re": "170080-4",
+        "name": "WAGNER SARAIVA NOBREGA",
+        "rank": "Sd PM",
+        "phone": "11 99014-0599"
+      },
+      "amOfficers": [
+        {
+          "re": "139961-6",
+          "name": "MARCIO DE MORAES CUSTÓDIO",
+          "rank": "Cb PM",
+          "phone": "15 99852-4562"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "170080-4",
+          "name": "WAGNER SARAIVA NOBREGA",
+          "rank": "Sd PM",
+          "phone": "11 99014-0599"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--prof--enir-silva-pilan-tapirai",
+      "school": "EMEF. PROF. ENIR SILVA PILAN",
+      "city": "TAPIRAÍ",
+      "bairro": "CENTRO",
+      "zone": "89",
+      "opm": "CPI-7 - 40.BPM/I - 2.CIA",
+      "lat": -23.961081,
+      "lng": -47.5048763,
+      "address": "RUA EDUARDO COSTA MAGUETA 155, CENTRO - TAPIRAÍ",
+      "am": {
+        "re": "145678-4",
+        "name": "RÉGIS AMILTON DA SILVA",
+        "rank": "Cb PM",
+        "phone": "15 99657-4163"
+      },
+      "pm": {
+        "re": "154070-0",
+        "name": "WELLINGTON RODRIGO NUNES DA SILVA",
+        "rank": "Sd PM",
+        "phone": "15 99715-8195"
+      },
+      "amOfficers": [
+        {
+          "re": "145678-4",
+          "name": "RÉGIS AMILTON DA SILVA",
+          "rank": "Cb PM",
+          "phone": "15 99657-4163"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "154070-0",
+          "name": "WELLINGTON RODRIGO NUNES DA SILVA",
+          "rank": "Sd PM",
+          "phone": "15 99715-8195"
+        }
+      ]
+    },
+    {
+      "id": "school-cie--prof--osmar-giacomelli-aracoiaba-da-serra",
+      "school": "CIE. PROF. OSMAR GIACOMELLI",
+      "city": "ARAÇOIABA DA SERRA",
+      "bairro": "TOLEDOPOLIS",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.50772,
+      "lng": -47.60127,
+      "address": "AV LUANE MILANDA DE OLIVEIRA 500, TOLEDOPOLIS - ARAÇOIABA DA SERRA",
+      "am": {
+        "re": "160631-0",
+        "name": "RENATO DE PAULA MOREIRA",
+        "rank": "Sd PM",
+        "phone": "15 99670-8526"
+      },
+      "pm": {
+        "re": "141957-2",
+        "name": "TIAGO FERNANDO RODRIGUES",
+        "rank": "Cb PM",
+        "phone": "15 99688-6935"
+      },
+      "amOfficers": [
+        {
+          "re": "160631-0",
+          "name": "RENATO DE PAULA MOREIRA",
+          "rank": "Sd PM",
+          "phone": "15 99670-8526"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "141957-2",
+          "name": "TIAGO FERNANDO RODRIGUES",
+          "rank": "Cb PM",
+          "phone": "15 99688-6935"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--profa--maria-angelica-baillot-aracoiaba-da-serra",
+      "school": "EE. PROFA. MARIA ANGELICA BAILLOT",
+      "city": "ARAÇOIABA DA SERRA",
+      "bairro": "CENTRO",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.508673,
+      "lng": -47.6077509,
+      "address": "RUA MANOEL VIEIRA 587, CENTRO - ARAÇOIABA DA SERRA",
+      "am": {
+        "re": "138388-4",
+        "name": "ADONIAS PINHEIRO DE ALMEIDA AMb",
+        "rank": "Cb PM",
+        "phone": "15 99770-2980"
+      },
+      "pm": {
+        "re": "111666-5",
+        "name": "ALEXANDRE PASCHOAL",
+        "rank": "Cb PM",
+        "phone": "15-99131-0604"
+      },
+      "amOfficers": [
+        {
+          "re": "138388-4",
+          "name": "ADONIAS PINHEIRO DE ALMEIDA AMb",
+          "rank": "Cb PM",
+          "phone": "15 99770-2980"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "111666-5",
+          "name": "ALEXANDRE PASCHOAL",
+          "rank": "Cb PM",
+          "phone": "15-99131-0604"
+        }
+      ]
+    },
+    {
+      "id": "school-emef-coronel-antonio-rodrigues-de-miranda-aracoiaba-da-serra",
+      "school": "EMEF CORONEL ANTONIO RODRIGUES DE MIRANDA",
+      "city": "ARAÇOIABA DA SERRA",
+      "bairro": "ARACOIABINHA",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.457127,
+      "lng": -47.5918358,
+      "address": "ESTRADA DE IPANEMA 138 A, ARACOIABINHA - ARAÇOIABA DA SERRA",
+      "am": {
+        "re": "151212-9",
+        "name": "ADRIAN VIANA DE OLIVEIRA",
+        "rank": "Cb PM",
+        "phone": "15 99630-8658"
+      },
+      "pm": {
+        "re": "138242-0",
+        "name": "RODRIGO DA CRUZ LIMA",
+        "rank": "Cb PM",
+        "phone": "15 99811-6058"
+      },
+      "amOfficers": [
+        {
+          "re": "151212-9",
+          "name": "ADRIAN VIANA DE OLIVEIRA",
+          "rank": "Cb PM",
+          "phone": "15 99630-8658"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "138242-0",
+          "name": "RODRIGO DA CRUZ LIMA",
+          "rank": "Cb PM",
+          "phone": "15 99811-6058"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--alcebiades-leonel-machado-aracoiaba-da-serra",
+      "school": "EMEF. ALCEBIADES LEONEL MACHADO",
+      "city": "ARAÇOIABA DA SERRA",
+      "bairro": "CAMPO DO MEIO",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.5737415,
+      "lng": -47.7012434,
+      "address": "RUA LOURDES DIAS DE BARROS 200, CAMPO DO MEIO - ARAÇOIABA DA SERRA",
+      "am": {
+        "re": "156905-8",
+        "name": "ADRIANO ALVES",
+        "rank": "Sd PM",
+        "phone": "15 98173-5772"
+      },
+      "pm": {
+        "re": "144359-3",
+        "name": "JOSIAS MARIANO DA CRUZ",
+        "rank": "Cb PM",
+        "phone": "15 99795-0039"
+      },
+      "amOfficers": [
+        {
+          "re": "156905-8",
+          "name": "ADRIANO ALVES",
+          "rank": "Sd PM",
+          "phone": "15 98173-5772"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "144359-3",
+          "name": "JOSIAS MARIANO DA CRUZ",
+          "rank": "Cb PM",
+          "phone": "15 99795-0039"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--dr--celso-charuri-aracoiaba-da-serra",
+      "school": "EMEF. DR. CELSO CHARURI",
+      "city": "ARAÇOIABA DA SERRA",
+      "bairro": "JUNDIAQUARA",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.5706562,
+      "lng": -47.6022916,
+      "address": "RUA ELIAS CHARURE 20, JUNDIAQUARA - ARAÇOIABA DA SERRA",
+      "am": {
+        "re": "157200-8",
+        "name": "ALEX DE ALMEIDA",
+        "rank": "Sd PM",
+        "phone": "15 99798-2700"
+      },
+      "pm": {
+        "re": "157200-8",
+        "name": "ALEX DE ALMEIDA",
+        "rank": "Sd PM",
+        "phone": "15 99798-2700"
+      },
+      "amOfficers": [
+        {
+          "re": "157200-8",
+          "name": "ALEX DE ALMEIDA",
+          "rank": "Sd PM",
+          "phone": "15 99798-2700"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "157200-8",
+          "name": "ALEX DE ALMEIDA",
+          "rank": "Sd PM",
+          "phone": "15 99798-2700"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--pedro-ferreira-duarte-neto-aracoiaba-da-serra",
+      "school": "EMEF. PEDRO FERREIRA DUARTE NETO",
+      "city": "ARAÇOIABA DA SERRA",
+      "bairro": "ARACOIABINHA",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.495311,
+      "lng": -47.5731851,
+      "address": "ESTRADA FAZENDA IPANEMA 138, ARACOIABINHA - ARAÇOIABA DA SERRA",
+      "am": {
+        "re": "151212-9",
+        "name": "ADRIAN VIANA DE OLIVEIRA",
+        "rank": "Cb PM",
+        "phone": "15 99630-8658"
+      },
+      "pm": {
+        "re": "138242-0",
+        "name": "RODRIGO DA CRUZ LIMA",
+        "rank": "Cb PM",
+        "phone": "15 99811-6058"
+      },
+      "amOfficers": [
+        {
+          "re": "151212-9",
+          "name": "ADRIAN VIANA DE OLIVEIRA",
+          "rank": "Cb PM",
+          "phone": "15 99630-8658"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "138242-0",
+          "name": "RODRIGO DA CRUZ LIMA",
+          "rank": "Cb PM",
+          "phone": "15 99811-6058"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--profa--aurea-duarte-rocha-aracoiaba-da-serra",
+      "school": "EMEF. PROFA. AUREA DUARTE ROCHA",
+      "city": "ARAÇOIABA DA SERRA",
+      "bairro": "JARDIM ERCILIA",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.5080304,
+      "lng": -47.6226463,
+      "address": "RUA OSWALDO EUGENIO ANTUNES 333, JARDIM ERCILIA - ARAÇOIABA DA SERRA",
+      "am": {
+        "re": "139464-9",
+        "name": "FELIPE MAURICIO DE SOUZA",
+        "rank": "Cb PM",
+        "phone": "15-99692-5151"
+      },
+      "pm": {
+        "re": "146566-0",
+        "name": "SAMUEL DONIZETE GOMES PROENÇA",
+        "rank": "Cb PM",
+        "phone": "15 99725-7217"
+      },
+      "amOfficers": [
+        {
+          "re": "139464-9",
+          "name": "FELIPE MAURICIO DE SOUZA",
+          "rank": "Cb PM",
+          "phone": "15-99692-5151"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "146566-0",
+          "name": "SAMUEL DONIZETE GOMES PROENÇA",
+          "rank": "Cb PM",
+          "phone": "15 99725-7217"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--profa--helena-rodrigues-aracoiaba-da-serra",
+      "school": "EMEF. PROFA. HELENA RODRIGUES",
+      "city": "ARAÇOIABA DA SERRA",
+      "bairro": "JARDIM MARIA DA GLORIA",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.5109677,
+      "lng": -47.62091,
+      "address": "RUA PROF. ADONIDAS TELLES MENDES MARTINS 35, JARDIM MARIA DA GLORIA - ARAÇOIABA DA SERRA",
+      "am": {
+        "re": "138730-8",
+        "name": "RENATO MARCOS FANTI",
+        "rank": "Cb PM",
+        "phone": "15 98811-6429"
+      },
+      "pm": {
+        "re": "972187-8",
+        "name": "VALQUIRIA ALESSANDRA CALMON MENDES",
+        "rank": "Cb PM",
+        "phone": "15-991238199"
+      },
+      "amOfficers": [
+        {
+          "re": "138730-8",
+          "name": "RENATO MARCOS FANTI",
+          "rank": "Cb PM",
+          "phone": "15 98811-6429"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "972187-8",
+          "name": "VALQUIRIA ALESSANDRA CALMON MENDES",
+          "rank": "Cb PM",
+          "phone": "15-991238199"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--profa--maria-mizue-nagaishi-florenzano-aracoiaba-da-serra",
+      "school": "EMEF. PROFA. MARIA MIZUE NAGAISHI FLORENZANO",
+      "city": "ARAÇOIABA DA SERRA",
+      "bairro": "NOVA ARACOIABA",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.5031963,
+      "lng": -47.6134624,
+      "address": "RUA PEDRO MUNHOZ 52, NOVA ARACOIABA - ARAÇOIABA DA SERRA",
+      "am": {
+        "re": "120610-9",
+        "name": "CÉLIO ROBERTO LIMA",
+        "rank": "Cb PM",
+        "phone": "15 99731-6540"
+      },
+      "pm": {
+        "re": "121735-6",
+        "name": "DANIEL WAGNER PEREIRA",
+        "rank": "Cb PM",
+        "phone": "15 99751-8694"
+      },
+      "amOfficers": [
+        {
+          "re": "120610-9",
+          "name": "CÉLIO ROBERTO LIMA",
+          "rank": "Cb PM",
+          "phone": "15 99731-6540"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "121735-6",
+          "name": "DANIEL WAGNER PEREIRA",
+          "rank": "Cb PM",
+          "phone": "15 99751-8694"
+        }
+      ]
+    },
+    {
+      "id": "school-emeief--profa--maria-silvia-florenzano-aracoiaba-da-serra",
+      "school": "EMEIEF. PROFA. MARIA SILVIA FLORENZANO",
+      "city": "ARAÇOIABA DA SERRA",
+      "bairro": "BOSQUE DOS EUCALIPTOS",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.5340307,
+      "lng": -47.5683968,
+      "address": "RUA ANTONIO LOPES DOS SANTOS 30, BOSQUE DOS EUCALIPTOS - ARAÇOIABA DA SERRA",
+      "am": {
+        "re": "211119-5",
+        "name": "JONATAN MUNIZ DOS SANTOS",
+        "rank": "Sd PM",
+        "phone": "15 98834-0322"
+      },
+      "pm": {
+        "re": "138.614-0",
+        "name": "ANDRE LUIZ CORREA DE SOUZA",
+        "rank": "Cb PM",
+        "phone": "15 99716-3571"
+      },
+      "amOfficers": [
+        {
+          "re": "211119-5",
+          "name": "JONATAN MUNIZ DOS SANTOS",
+          "rank": "Sd PM",
+          "phone": "15 98834-0322"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "138.614-0",
+          "name": "ANDRE LUIZ CORREA DE SOUZA",
+          "rank": "Cb PM",
+          "phone": "15 99716-3571"
+        }
+      ]
+    },
+    {
+      "id": "school-ee-doutor-gaspar-ricardo-junior-ipero",
+      "school": "EE DOUTOR GASPAR RICARDO JUNIOR",
+      "city": "IPERÓ",
+      "bairro": "CENTRO",
+      "zone": "369",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.3496131,
+      "lng": -47.6889386,
+      "address": "RUA SANTO ANTONIO 186, CENTRO - IPERÓ",
+      "am": {
+        "re": "150634-0",
+        "name": "GUILHERME CAMPOS",
+        "rank": "Sd PM",
+        "phone": "15 99837-5886"
+      },
+      "pm": {
+        "re": "130585-9",
+        "name": "JOÃO ANTONIO ABRAME",
+        "rank": "Cb PM",
+        "phone": "11 97355-2670"
+      },
+      "amOfficers": [
+        {
+          "re": "150634-0",
+          "name": "GUILHERME CAMPOS",
+          "rank": "Sd PM",
+          "phone": "15 99837-5886"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "130585-9",
+          "name": "JOÃO ANTONIO ABRAME",
+          "rank": "Cb PM",
+          "phone": "11 97355-2670"
+        }
+      ]
+    },
+    {
+      "id": "school-em-dona-elisa-moreira-dos-santos-ipero",
+      "school": "EM DONA ELISA MOREIRA DOS SANTOS",
+      "city": "IPERÓ",
+      "bairro": "CENTRO",
+      "zone": "369",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.3435144,
+      "lng": -47.6899842,
+      "address": "RUA FRANCISCO RIBEIRO S N, CENTRO - IPERÓ",
+      "am": {
+        "re": "128982-9",
+        "name": "FABIO DA SILVA PRATO",
+        "rank": "Cb PM",
+        "phone": "15 99603-4500"
+      },
+      "pm": {
+        "re": "120590-A",
+        "name": "ADRIANO DE BRAGA BALULA",
+        "rank": "Cb PM",
+        "phone": "15 99123-1264"
+      },
+      "amOfficers": [
+        {
+          "re": "128982-9",
+          "name": "FABIO DA SILVA PRATO",
+          "rank": "Cb PM",
+          "phone": "15 99603-4500"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "120590-A",
+          "name": "ADRIANO DE BRAGA BALULA",
+          "rank": "Cb PM",
+          "phone": "15 99123-1264"
+        }
+      ]
+    },
+    {
+      "id": "school-em-dona-isaura-jamas-fogaca-ipero",
+      "school": "EM DONA ISAURA JAMAS FOGACA",
+      "city": "IPERÓ",
+      "bairro": "CENTRO",
+      "zone": "369",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.348547,
+      "lng": -47.694251,
+      "address": "RUA COSTA E SILVA 440, CENTRO - IPERÓ",
+      "am": {
+        "re": "105889-4",
+        "name": "JEFERSOM AMADO MIRANDA Amb",
+        "rank": "Cb PM",
+        "phone": "15 99134-8650"
+      },
+      "pm": {
+        "re": "120667-2",
+        "name": "MARCELO DE ALMEIDA TAVARES",
+        "rank": "Cb PM",
+        "phone": "15 99122-0815"
+      },
+      "amOfficers": [
+        {
+          "re": "105889-4",
+          "name": "JEFERSOM AMADO MIRANDA Amb",
+          "rank": "Cb PM",
+          "phone": "15 99134-8650"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "120667-2",
+          "name": "MARCELO DE ALMEIDA TAVARES",
+          "rank": "Cb PM",
+          "phone": "15 99122-0815"
+        }
+      ]
+    },
+    {
+      "id": "school-em-francisco-adolfo-de-varnhagem-ipero",
+      "school": "EM FRANCISCO ADOLFO DE VARNHAGEM",
+      "city": "IPERÓ",
+      "bairro": "CAMPOS VILETA",
+      "zone": "369",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.3504027,
+      "lng": -47.6898918,
+      "address": "RUA SOARES 50, CAMPOS VILETA - IPERÓ",
+      "am": {
+        "re": "181841-4",
+        "name": "RIVALDO FERREIRA DE CARVALHO",
+        "rank": "Sd PM",
+        "phone": "15 99665-8043"
+      },
+      "pm": {
+        "re": "171767-7",
+        "name": "WAGNER HENRIQUE GONCALVES",
+        "rank": "Cb PM",
+        "phone": "15 99655-8037"
+      },
+      "amOfficers": [
+        {
+          "re": "181841-4",
+          "name": "RIVALDO FERREIRA DE CARVALHO",
+          "rank": "Sd PM",
+          "phone": "15 99665-8043"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "171767-7",
+          "name": "WAGNER HENRIQUE GONCALVES",
+          "rank": "Cb PM",
+          "phone": "15 99655-8037"
+        }
+      ]
+    },
+    {
+      "id": "school-em-professora-henory-de-campos-goes-ipero",
+      "school": "EM PROFESSORA HENORY DE CAMPOS GOES",
+      "city": "IPERÓ",
+      "bairro": "JARDIM IRENE",
+      "zone": "369",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.3485305,
+      "lng": -47.6933835,
+      "address": "RUA LUIS ROSSI 57, JARDIM IRENE - IPERÓ",
+      "am": {
+        "re": "171809-6",
+        "name": "GUILHERME CORREIA SANCHES DOS SANTOS - BPRV",
+        "rank": "Sd PM",
+        "phone": "15 99781-3871"
+      },
+      "pm": {
+        "re": "105935-1",
+        "name": "MARCELO BURGO JACOMINI",
+        "rank": "Cb PM",
+        "phone": "15 99724-2003"
+      },
+      "amOfficers": [
+        {
+          "re": "171809-6",
+          "name": "GUILHERME CORREIA SANCHES DOS SANTOS - BPRV",
+          "rank": "Sd PM",
+          "phone": "15 99781-3871"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "105935-1",
+          "name": "MARCELO BURGO JACOMINI",
+          "rank": "Cb PM",
+          "phone": "15 99724-2003"
+        }
+      ]
+    },
+    {
+      "id": "school-em-professora-zilma-thibes-de-mello-ipero",
+      "school": "EM PROFESSORA ZILMA THIBES DE MELLO",
+      "city": "IPERÓ",
+      "bairro": "GEORGE OETTERER",
+      "zone": "369",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.4505744,
+      "lng": -47.5564817,
+      "address": "AVENIDA CECY 41, GEORGE OETTERER - IPERÓ",
+      "am": {
+        "re": "131495-5",
+        "name": "BRUNO ROGÉRIO DOS SANTOS",
+        "rank": "Cb PM",
+        "phone": "15-98167-5135"
+      },
+      "pm": {
+        "re": "133251-1",
+        "name": "JOB ROSA",
+        "rank": "Cb PM",
+        "phone": "15-99777-1981"
+      },
+      "amOfficers": [
+        {
+          "re": "131495-5",
+          "name": "BRUNO ROGÉRIO DOS SANTOS",
+          "rank": "Cb PM",
+          "phone": "15-98167-5135"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "133251-1",
+          "name": "JOB ROSA",
+          "rank": "Cb PM",
+          "phone": "15-99777-1981"
+        }
+      ]
+    },
+    {
+      "id": "school-em-roque-ayres-de-oliveira-ipero",
+      "school": "EM ROQUE AYRES DE OLIVEIRA",
+      "city": "IPERÓ",
+      "bairro": "BACAETAVA",
+      "zone": "369",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.3481161,
+      "lng": -47.6909182,
+      "address": "RUA ANA GUAZZELLI 200, BACAETAVA - IPERÓ",
+      "am": {
+        "re": "129143-2",
+        "name": "LEANDRO HENRIQUE DE OLIVEIRA",
+        "rank": "Cb PM",
+        "phone": "14 99655-5031"
+      },
+      "pm": {
+        "re": "129730-9",
+        "name": "EREQUE JOSE DE CAMARGO",
+        "rank": "Cb PM",
+        "phone": "15 99845-4094"
+      },
+      "amOfficers": [
+        {
+          "re": "129143-2",
+          "name": "LEANDRO HENRIQUE DE OLIVEIRA",
+          "rank": "Cb PM",
+          "phone": "14 99655-5031"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "129730-9",
+          "name": "EREQUE JOSE DE CAMARGO",
+          "rank": "Cb PM",
+          "phone": "15 99845-4094"
+        }
+      ]
+    },
+    {
+      "id": "school-ee-vereador-odilon-batista-jordao-pilar-do-sul",
+      "school": "EE VEREADOR ODILON BATISTA JORDAO",
+      "city": "PILAR DO SUL",
+      "bairro": "CENTRO",
+      "zone": "369",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.813608,
+      "lng": -47.7155799,
+      "address": "R CEL MORAES CUNHA S N, CENTRO - PILAR DO SUL",
+      "am": {
+        "re": "131323-1",
+        "name": "MARCIO FRANCISCO CARDENA",
+        "rank": "Cb PM",
+        "phone": "11 99492-2494"
+      },
+      "pm": {
+        "re": "141637-5",
+        "name": "ADILSON JOAQUIM DE OLIVEIRA",
+        "rank": "Cb PM",
+        "phone": "15 99657-6483"
+      },
+      "amOfficers": [
+        {
+          "re": "131323-1",
+          "name": "MARCIO FRANCISCO CARDENA",
+          "rank": "Cb PM",
+          "phone": "11 99492-2494"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "141637-5",
+          "name": "ADILSON JOAQUIM DE OLIVEIRA",
+          "rank": "Cb PM",
+          "phone": "15 99657-6483"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--padre-anchieta-pilar-do-sul",
+      "school": "EE. PADRE ANCHIETA",
+      "city": "PILAR DO SUL",
+      "bairro": "CAMPO GRANDE",
+      "zone": "318",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.8055276,
+      "lng": -47.7259271,
+      "address": "RUA DURVALINO COSTA E SILVA 7, CAMPO GRANDE - PILAR DO SUL",
+      "am": {
+        "re": "112644-0",
+        "name": "DOUGLAS DE GOES MURAT",
+        "rank": "1º Sgt PM",
+        "phone": "15 98112-8884"
+      },
+      "pm": {
+        "re": "111597-9",
+        "name": "RODRIGO VIEIRA NOGUEIRA",
+        "rank": "Cb PM",
+        "phone": "15 997404096"
+      },
+      "amOfficers": [
+        {
+          "re": "112644-0",
+          "name": "DOUGLAS DE GOES MURAT",
+          "rank": "1º Sgt PM",
+          "phone": "15 98112-8884"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "111597-9",
+          "name": "RODRIGO VIEIRA NOGUEIRA",
+          "rank": "Cb PM",
+          "phone": "15 997404096"
+        }
+      ]
+    },
+    {
+      "id": "school-emei-teresinha-maria-proenca-yasuda-pilar-do-sul",
+      "school": "EMEI TERESINHA MARIA PROENCA YASUDA",
+      "city": "PILAR DO SUL",
+      "bairro": "CENTRO",
+      "zone": "318",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.8143773,
+      "lng": -47.716741,
+      "address": "AVENIDA PRESBITERO JOVINO GOMES 197, CENTRO - PILAR DO SUL",
+      "am": {
+        "re": "117128-3",
+        "name": "ALESSANDRO RODRIGUES GALLERA - CPRV",
+        "rank": "Cb PM",
+        "phone": "15 99785-1014"
+      },
+      "pm": {
+        "re": "119577-8",
+        "name": "CESAR JULIO DOS SANTOS",
+        "rank": "Cb PM",
+        "phone": "15 97401-0240"
+      },
+      "amOfficers": [
+        {
+          "re": "117128-3",
+          "name": "ALESSANDRO RODRIGUES GALLERA - CPRV",
+          "rank": "Cb PM",
+          "phone": "15 99785-1014"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "119577-8",
+          "name": "CESAR JULIO DOS SANTOS",
+          "rank": "Cb PM",
+          "phone": "15 97401-0240"
+        }
+      ]
+    },
+    {
+      "id": "school-posto-eleitoral---forum-de-pilar-do-sul-pilar-do-sul",
+      "school": "POSTO ELEITORAL  -  FORUM DE PILAR DO SUL",
+      "city": "PILAR DO SUL",
+      "bairro": "CENTRO",
+      "zone": "318",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.8135,
+      "lng": -47.7162,
+      "address": "PRACA PADRE LUIZ TRENTINI 330, CENTRO - PILAR DO SUL",
+      "am": {
+        "re": "155062-4",
+        "name": "LEANDRO ALMEIDA SILVA - CPRV",
+        "rank": "Cb PM",
+        "phone": "15 99754-4657"
+      },
+      "pm": {
+        "re": "144257-A",
+        "name": "CARLOS RAFAEL VIEIRA DANTAS",
+        "rank": "1º Sgt PM",
+        "phone": "15 99144-9041"
+      },
+      "amOfficers": [
+        {
+          "re": "155062-4",
+          "name": "LEANDRO ALMEIDA SILVA - CPRV",
+          "rank": "Cb PM",
+          "phone": "15 99754-4657"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "144257-A",
+          "name": "CARLOS RAFAEL VIEIRA DANTAS",
+          "rank": "1º Sgt PM",
+          "phone": "15 99144-9041"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--anna-cuevas-guimaraes-salto-de-pirapora",
+      "school": "EE. ANNA CUEVAS GUIMARAES",
+      "city": "SALTO DE PIRAPORA",
+      "bairro": "JARDIM DANIEL DAVID HADDAD",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.6618669,
+      "lng": -47.5814274,
+      "address": "RUA BRASIL 195, JARDIM DANIEL DAVID HADDAD - SALTO DE PIRAPORA",
+      "am": {
+        "re": "105872-0",
+        "name": "EDUARDO DOS SANTOS LEITE",
+        "rank": "2º Sgt PM",
+        "phone": "15 99715-6092"
+      },
+      "pm": {
+        "re": "115291-2",
+        "name": "LEANDRO DINIZ",
+        "rank": "Cb PM",
+        "phone": "11 98743-2906"
+      },
+      "amOfficers": [
+        {
+          "re": "105872-0",
+          "name": "EDUARDO DOS SANTOS LEITE",
+          "rank": "2º Sgt PM",
+          "phone": "15 99715-6092"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "115291-2",
+          "name": "LEANDRO DINIZ",
+          "rank": "Cb PM",
+          "phone": "11 98743-2906"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--benedicto-rodrigues-salto-de-pirapora",
+      "school": "EE. BENEDICTO RODRIGUES",
+      "city": "SALTO DE PIRAPORA",
+      "bairro": "RECANTO CIDADE NOVA",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.651436,
+      "lng": -47.5696942,
+      "address": "RUA MARIA HELENA ANTUNES SIQUEIRA 150, RECANTO CIDADE NOVA - SALTO DE PIRAPORA",
+      "am": {
+        "re": "180969-5",
+        "name": "ANDREI FERNANDO GAEM DA SILVA",
+        "rank": "Sd PM",
+        "phone": "15 99751-8408"
+      },
+      "pm": {
+        "re": "162165-3",
+        "name": "WALISON WILIAN ANTUNES DE OLIVEIRA",
+        "rank": "Sd PM",
+        "phone": "11 97621-5925"
+      },
+      "amOfficers": [
+        {
+          "re": "180969-5",
+          "name": "ANDREI FERNANDO GAEM DA SILVA",
+          "rank": "Sd PM",
+          "phone": "15 99751-8408"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "162165-3",
+          "name": "WALISON WILIAN ANTUNES DE OLIVEIRA",
+          "rank": "Sd PM",
+          "phone": "11 97621-5925"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--dr--afonso-vergueiro-salto-de-pirapora",
+      "school": "EE. DR. AFONSO VERGUEIRO",
+      "city": "SALTO DE PIRAPORA",
+      "bairro": "CENTRO",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.6475412,
+      "lng": -47.5750847,
+      "address": "RUA ANTONIO RODRIGUES SIMOES 310, CENTRO - SALTO DE PIRAPORA",
+      "am": {
+        "re": "116205-5",
+        "name": "CLAUDEMIR LUCAS DE LIMA - CPRV",
+        "rank": "1º Sgt PM",
+        "phone": "15 99243-3993"
+      },
+      "pm": {
+        "re": "991943-A",
+        "name": "PEDRO RODRIGUES DE ABREU JUNIOR",
+        "rank": "Cb PM",
+        "phone": "15 99858-6028"
+      },
+      "amOfficers": [
+        {
+          "re": "116205-5",
+          "name": "CLAUDEMIR LUCAS DE LIMA - CPRV",
+          "rank": "1º Sgt PM",
+          "phone": "15 99243-3993"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "991943-A",
+          "name": "PEDRO RODRIGUES DE ABREU JUNIOR",
+          "rank": "Cb PM",
+          "phone": "15 99858-6028"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--jardim-primavera-salto-de-pirapora",
+      "school": "EE. JARDIM PRIMAVERA",
+      "city": "SALTO DE PIRAPORA",
+      "bairro": "JARDIM PRIMAVERA",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.6564721,
+      "lng": -47.577098,
+      "address": "RUA OVIDIO DE BARROS LEITE 190, JARDIM PRIMAVERA - SALTO DE PIRAPORA",
+      "am": {
+        "re": "149784-7",
+        "name": "PRISCILA FERNANDA DE OLIVEIRA",
+        "rank": "Sd PM",
+        "phone": "15 99622-0441"
+      },
+      "pm": {
+        "re": "129792-9",
+        "name": "GILSON RODRIGUES",
+        "rank": "Cb PM",
+        "phone": "15 99811-3443"
+      },
+      "amOfficers": [
+        {
+          "re": "149784-7",
+          "name": "PRISCILA FERNANDA DE OLIVEIRA",
+          "rank": "Sd PM",
+          "phone": "15 99622-0441"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "129792-9",
+          "name": "GILSON RODRIGUES",
+          "rank": "Cb PM",
+          "phone": "15 99811-3443"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--jd--daniel-david-haddad-salto-de-pirapora",
+      "school": "EE. JD. DANIEL DAVID HADDAD",
+      "city": "SALTO DE PIRAPORA",
+      "bairro": "CAMPO LARGO",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.662386,
+      "lng": -47.5817764,
+      "address": "AV PEDRO PIRES DE MELLO 850, CAMPO LARGO - SALTO DE PIRAPORA",
+      "am": {
+        "re": "102575-9",
+        "name": "RODRIGO CROZATTI",
+        "rank": "Cb PM",
+        "phone": "15 99635-3514"
+      },
+      "pm": {
+        "re": "120611-7",
+        "name": "CICERO PAULINO DE OLIVEIRA",
+        "rank": "Sd PM",
+        "phone": "15 996100163"
+      },
+      "amOfficers": [
+        {
+          "re": "102575-9",
+          "name": "RODRIGO CROZATTI",
+          "rank": "Cb PM",
+          "phone": "15 99635-3514"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "120611-7",
+          "name": "CICERO PAULINO DE OLIVEIRA",
+          "rank": "Sd PM",
+          "phone": "15 996100163"
+        }
+      ]
+    },
+    {
+      "id": "school-ee--prof--benedicto-leme-vieira-neto-salto-de-pirapora",
+      "school": "EE. PROF. BENEDICTO LEME VIEIRA NETO",
+      "city": "SALTO DE PIRAPORA",
+      "bairro": "JARDIM BANDEIRAS",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.6333061,
+      "lng": -47.5751634,
+      "address": "RUA FRANCISCO ROBERTO DANIEL 298, JARDIM BANDEIRAS - SALTO DE PIRAPORA",
+      "am": {
+        "re": "144482-4",
+        "name": "CRISTIANO KAMEL DOS SANTOS AMARAL",
+        "rank": "2º Sgt PM",
+        "phone": "14 99651-8740"
+      },
+      "pm": {
+        "re": "140687-6",
+        "name": "FELIPE BONFIM DE ALBUQUERQUE",
+        "rank": "Cb PM",
+        "phone": "11-96179-9347"
+      },
+      "amOfficers": [
+        {
+          "re": "144482-4",
+          "name": "CRISTIANO KAMEL DOS SANTOS AMARAL",
+          "rank": "2º Sgt PM",
+          "phone": "14 99651-8740"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "140687-6",
+          "name": "FELIPE BONFIM DE ALBUQUERQUE",
+          "rank": "Cb PM",
+          "phone": "11-96179-9347"
+        }
+      ]
+    },
+    {
+      "id": "school-emef-vereadora-celia-dias-batista-dos-santos-salto-de-pirapora",
+      "school": "EMEF VEREADORA CELIA DIAS BATISTA DOS SANTOS",
+      "city": "SALTO DE PIRAPORA",
+      "bairro": "CENTRO",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.6450612,
+      "lng": -47.5734753,
+      "address": "RUA GED NICOLAU HAGE 65, CENTRO - SALTO DE PIRAPORA",
+      "am": {
+        "re": "111126-4",
+        "name": "EDSON FERREIRA DIAS - BPRV",
+        "rank": "Cb PM",
+        "phone": "15 99700-8441"
+      },
+      "pm": {
+        "re": "201200-6",
+        "name": "LUANA DE FATIMA FERREIRA - CPI7",
+        "rank": "Sd PM",
+        "phone": "15 99797-6228"
+      },
+      "amOfficers": [
+        {
+          "re": "111126-4",
+          "name": "EDSON FERREIRA DIAS - BPRV",
+          "rank": "Cb PM",
+          "phone": "15 99700-8441"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "201200-6",
+          "name": "LUANA DE FATIMA FERREIRA - CPI7",
+          "rank": "Sd PM",
+          "phone": "15 99797-6228"
+        }
+      ]
+    },
+    {
+      "id": "school-emef--profa--silvia-haddad-salto-de-pirapora",
+      "school": "EMEF. PROFA. SILVIA HADDAD",
+      "city": "SALTO DE PIRAPORA",
+      "bairro": "JARDIM AMERICA",
+      "zone": "294",
+      "opm": "CPI-7 - 40.BPM/I - 3.CIA",
+      "lat": -23.6350332,
+      "lng": -47.5792453,
+      "address": "RUA BELMIRO GUILHERME DA ROCHA 100, JARDIM AMERICA - SALTO DE PIRAPORA",
+      "am": {
+        "re": "138499-6",
+        "name": "EMERSON RODRIGUES",
+        "rank": "Cb PM",
+        "phone": "15 99859-3004"
+      },
+      "pm": {
+        "re": "121395-4",
+        "name": "RICARDO DIAS DE SOUZA",
+        "rank": "Cb PM",
+        "phone": "11 96584-4423"
+      },
+      "amOfficers": [
+        {
+          "re": "138499-6",
+          "name": "EMERSON RODRIGUES",
+          "rank": "Cb PM",
+          "phone": "15 99859-3004"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "121395-4",
+          "name": "RICARDO DIAS DE SOUZA",
+          "rank": "Cb PM",
+          "phone": "11 96584-4423"
+        }
+      ]
+    },
+    {
+      "id": "school-em-eng-antonio-de-castro-figueiroa-aluminio",
+      "school": "EM ENG ANTONIO DE CASTRO FIGUEIROA",
+      "city": "ALUMÍNIO",
+      "bairro": "JARDIM OLIDEL",
+      "zone": "131",
+      "opm": "CPI-7 - 40.BPM/I - 1.CIA",
+      "lat": -23.5178903,
+      "lng": -47.2496297,
+      "address": "RUA LUIZ MARTINS 100, JARDIM OLIDEL - ALUMÍNIO",
+      "am": {
+        "re": "154801-8",
+        "name": "DANILO TROIANO DOS SANTOS",
+        "rank": "Sd PM",
+        "phone": "11932036599"
+      },
+      "pm": {
+        "re": "120704-A",
+        "name": "WALTER DE OLIVEIRA SANTOS NETO",
+        "rank": "Cb PM",
+        "phone": "11994790836"
+      },
+      "amOfficers": [
+        {
+          "re": "154801-8",
+          "name": "DANILO TROIANO DOS SANTOS",
+          "rank": "Sd PM",
+          "phone": "11932036599"
+        }
+      ],
+      "pmOfficers": [
+        {
+          "re": "120704-A",
+          "name": "WALTER DE OLIVEIRA SANTOS NETO",
+          "rank": "Cb PM",
+          "phone": "11994790836"
+        }
+      ]
+    }
+  ],
+  "staff": [
+    {
+      "re": "980983-0",
+      "name": "LUIZA MARIA AIDAR DE O GERALDI",
+      "rank": "Ten Cel PM",
+      "function": "Comandante",
+      "local": "40º BPM/I",
+      "phone": "15 997187940",
+      "vehicle": "17-183",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "117327-8",
+      "name": "EDUARDO DOMINONI SUPLANO",
+      "rank": "Cb PM",
+      "function": "Motorista Comandante",
+      "local": "40º BPM/I",
+      "phone": "15 996563740",
+      "vehicle": "17-183",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "104614-4",
+      "name": "FABIANE PAINELI PUBLIO",
+      "rank": "Maj PM",
+      "function": "Subcomandante",
+      "local": "40º BPM/I",
+      "phone": "15 974035475",
+      "vehicle": "17-183",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "130712-6",
+      "name": "LUIS HENRIQUE ALCANTARA LISBOA",
+      "rank": "Cb PM",
+      "function": "Motorista Subcomandante",
+      "local": "40º BPM/I",
+      "phone": "15 996050647",
+      "vehicle": "17-183",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "104620-9",
+      "name": "RAFAEL PATZDORF CASARI DE OLIVEIRA",
+      "rank": "Maj PM",
+      "function": "Coordenador Operacional",
+      "local": "40º BPM/I",
+      "phone": "15 991506363",
+      "vehicle": "I-40001",
+      "driver": "",
+      "shiftRaw": "06H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "130043-1",
+      "name": "THIAGO RIBAS GATO MARIANO",
+      "rank": "Cb PM",
+      "function": "Motorista Coordenador Operacional",
+      "local": "40º BPM/I",
+      "phone": "15 981852535",
+      "vehicle": "I-40001",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "180673-4",
+      "name": "LUAN VASAKI MORAES GUIMARÃES",
+      "rank": "Sd PM",
+      "function": "Motorista Coordenador Operacional",
+      "local": "40º BPM/I",
+      "phone": "15 997885297",
+      "vehicle": "I-40001",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "127683-2",
+      "name": "MAGNO BRUNO CAMARGO PROENCA",
+      "rank": "Cap PM",
+      "function": "Supervisão Eleições",
+      "local": "1ª e 3ª Cia",
+      "phone": "15 98809-2458",
+      "vehicle": "I-40190",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "141725-8",
+      "name": "DIEGO ALMEIDA DOS SANTOS",
+      "rank": "Cb PM",
+      "function": "Motorista Supervisor Eleições",
+      "local": "1ª e 3ª Cia",
+      "phone": "15 997782916",
+      "vehicle": "I-40190",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "991149-9",
+      "name": "RICARDO BERNARDES MACHADO",
+      "rank": "Cap PM",
+      "function": "Supervisão Eleições",
+      "local": "2ª Cia",
+      "phone": "14 98214-6919",
+      "vehicle": "I-40300",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "170265-3",
+      "name": "JANAINE ROSA LOPES",
+      "rank": "1º Ten PM",
+      "function": "Supervisão Eleições",
+      "local": "2ª Cia",
+      "phone": "15 997670516",
+      "vehicle": "I-40300",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "129547-A",
+      "name": "ANDRÉ FERNANDES",
+      "rank": "Cb PM",
+      "function": "Motorista Supervisor Eleições",
+      "local": "2ª Cia",
+      "phone": "15 997754337",
+      "vehicle": "I-40300",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "111892-7",
+      "name": "MARCELO AUGUSTO PEREIRA",
+      "rank": "1º Ten PM",
+      "function": "Supervisão Eleições",
+      "local": "1ª e 3ª Cia",
+      "phone": "15 99731-0776",
+      "vehicle": "I-40000",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "151950-6",
+      "name": "FABIO LIMA PINHEIRO",
+      "rank": "Cb PM",
+      "function": "Motorista Supervisor Eleições",
+      "local": "1ª e 3ª Cia",
+      "phone": "15 99608-3118",
+      "vehicle": "I-40000",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "130136-5",
+      "name": "WALKIRIA GUIMARÃES ZANQUINI",
+      "rank": "Cap PM",
+      "function": "Supervisão Eleições",
+      "local": "2ª Cia",
+      "phone": "11 98157-5940",
+      "vehicle": "I-40241",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "210423-7",
+      "name": "ISAEL COSTA ROSA",
+      "rank": "Sd PM",
+      "function": "Motorista Supervisor Eleições",
+      "local": "2ª Cia",
+      "phone": "15 996140180",
+      "vehicle": "I-40241",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "962407-4",
+      "name": "JOSÉ EVANGELISTA DOS SANTOS JÚNIOR",
+      "rank": "1º Ten PM",
+      "function": "Ronda Eleições",
+      "local": "1ª e 3ª Cia",
+      "phone": "15 99147-9006",
+      "vehicle": "I-40000",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "147834-6",
+      "name": "DOUGLAS MARIANO AIRES DE MEIRA",
+      "rank": "Cb PM",
+      "function": "Motorista Ronda Eleições",
+      "local": "1ª e 3ª Cia",
+      "phone": "15 98157-9423",
+      "vehicle": "I-40000",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "111910-9",
+      "name": "MARCIO HENRIQUE DOS SANTOS",
+      "rank": "Cb PM",
+      "function": "Auxiliar Ronda Eleições",
+      "local": "1ª e 3ª Cia",
+      "phone": "15 997876574",
+      "vehicle": "I-40000",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "975351-6",
+      "name": "LUCIANO NUNES FERRO",
+      "rank": "1º Ten PM",
+      "function": "Ronda Eleições",
+      "local": "2ª Cia",
+      "phone": "15 99813-7175",
+      "vehicle": "22-1216",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "190944-4",
+      "name": "GUILHERME FOGAÇA TANAKA",
+      "rank": "Cb PM",
+      "function": "Motorista Ronda Eleições",
+      "local": "2ª Cia",
+      "phone": "15 99717-8232",
+      "vehicle": "22-1216",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "230931-9",
+      "name": "ROBSON TEIXEIRA DE PAULO",
+      "rank": "Asp PM",
+      "function": "Ronda Eleições",
+      "local": "1ª e 3ª Cia",
+      "phone": "18 98185-6006",
+      "vehicle": "22-1217",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "111807-2",
+      "name": "LEANDRO DA SILVA",
+      "rank": "Cb PM",
+      "function": "Motorista Ronda Eleições",
+      "local": "1ª e 3ª Cia",
+      "phone": "15 99725-5355",
+      "vehicle": "22-1217",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "202071-8",
+      "name": "PAULO ALLAN RODRIGUES VIANA",
+      "rank": "Sd PM",
+      "function": "Auxiliar Ronda Eleições",
+      "local": "1ª e 3ª Cia",
+      "phone": "15 996280667",
+      "vehicle": "22-1217",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "181060-0",
+      "name": "MURILO DOS SANTOS MUNIZ",
+      "rank": "Asp PM",
+      "function": "Ronda Eleições",
+      "local": "2ª Cia",
+      "phone": "15 99255-2474",
+      "vehicle": "22-1216",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "119449-6",
+      "name": "EMERSON SOUZA",
+      "rank": "Cb PM",
+      "function": "Motorista Ronda Eleições",
+      "local": "2ª Cia",
+      "phone": "15 998202623",
+      "vehicle": "22-1216",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "151807-A",
+      "name": "LUCAS RODIGUES FERRAZ SOUZA",
+      "rank": "Cb PM",
+      "function": "Auxiliar Ronda Eleições",
+      "local": "2ª Cia",
+      "phone": "15 99196-4225",
+      "vehicle": "22-1216",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "144812-9",
+      "name": "RAFAEL MAGIORE SILVERIO ROQUE",
+      "rank": "1º Ten PM",
+      "function": "Escolta de Autoridades",
+      "local": "40º BPM/I",
+      "phone": "15 99702-2912",
+      "vehicle": "I-40012",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "161801-6",
+      "name": "GABRIEL OLIVEIRA SOARES DA S. SURANO",
+      "rank": "Cb PM",
+      "function": "Motorista Escolta de Autoridades",
+      "local": "40º BPM/I",
+      "phone": "15 991045904",
+      "vehicle": "I-40012",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "155218-0",
+      "name": "ADAN TAYLOR DOS SANTOS E SILVA",
+      "rank": "Sd PM",
+      "function": "Auxiliar Escolta de Autoridades",
+      "local": "40º BPM/I",
+      "phone": "15 99827-0649",
+      "vehicle": "I-40012",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "119478-0",
+      "name": "JEAN FELIPE GAIDEX",
+      "rank": "1º Sgt PM",
+      "function": "CGP Eleições",
+      "local": "1ª Cia - Votorantim",
+      "phone": "15 997049981",
+      "vehicle": "I-40100",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "200225-6",
+      "name": "ARINE DE SOUZA LIMA CARAPINA",
+      "rank": "Cb PM",
+      "function": "Motorista CGP Eleições",
+      "local": "1ª Cia - Votorantim",
+      "phone": "11 97223-0574",
+      "vehicle": "I-40100",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "136309-3",
+      "name": "CLAUDINEI VALANDRO",
+      "rank": "1º Sgt PM",
+      "function": "CGP Eleições",
+      "local": "1ª Cia - Alumínio",
+      "phone": "15 974034007",
+      "vehicle": "I-40140",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "154810-7",
+      "name": "JESSICA MENEZEZ BRUNO MORI",
+      "rank": "Cb PM",
+      "function": "Motorista CGP Eleições",
+      "local": "1ª Cia - Alumínio",
+      "phone": "15 99731-9942",
+      "vehicle": "I-40140",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "975377-0",
+      "name": "MILTON RODRIGUES PAES JUNIOR",
+      "rank": "1º Sgt PM",
+      "function": "CGP Eleições",
+      "local": "1ª Cia",
+      "phone": "15 98117-4583",
+      "vehicle": "I-40100",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "190210-5",
+      "name": "ALINE CRISTINA VIEIRA CAMARGO",
+      "rank": "Cb PM",
+      "function": "Motorista CGP Eleições",
+      "local": "1ª Cia",
+      "phone": "15 996686603",
+      "vehicle": "I-40100",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "117370-7",
+      "name": "CRISTIANO PEGORARO FRANCISCO",
+      "rank": "1º Sgt PM",
+      "function": "Escolta Promotor",
+      "local": "1ª Cia",
+      "phone": "15 981353991",
+      "vehicle": "I-40111",
+      "driver": "",
+      "shiftRaw": "08H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "143948-A",
+      "name": "CLAUDIA REGINA BORTOLUCCI",
+      "rank": "Cb PM",
+      "function": "Motorista Escolta Promotor",
+      "local": "1ª Cia",
+      "phone": "15 99838-5842",
+      "vehicle": "I-40111",
+      "driver": "",
+      "shiftRaw": "08H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "975193-9",
+      "name": "KAIO VERISSIMO LARA FRAGOSO",
+      "rank": "1º Sgt PM",
+      "function": "Escolta Juiz Eleitoral",
+      "local": "1ª Cia",
+      "phone": "11 987767484",
+      "vehicle": "I-40101",
+      "driver": "",
+      "shiftRaw": "08H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "202034-3",
+      "name": "EMERSON GODINHO DOS SANTOS",
+      "rank": "Sd PM",
+      "function": "Motorista Escolta Juiz Eleitoral",
+      "local": "1ª Cia",
+      "phone": "15 996673650",
+      "vehicle": "I-40101",
+      "driver": "",
+      "shiftRaw": "08H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "130266-3",
+      "name": "ANTONIO CARLOS NUNES",
+      "rank": "1º Sgt PM",
+      "function": "CGP Eleições",
+      "local": "2ª Cia - Ibiúna",
+      "phone": "15 997936011",
+      "vehicle": "I-40204",
+      "driver": "",
+      "shiftRaw": "06H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "145052-2",
+      "name": "FERNANDO LEMES DA SILVA",
+      "rank": "Cb PM",
+      "function": "Motorista CGP Eleições",
+      "local": "2ª Cia - Ibiúna",
+      "phone": "15 996103897",
+      "vehicle": "I-40204",
+      "driver": "",
+      "shiftRaw": "06H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "128244-1",
+      "name": "LUIS CARLOS GARCIA SOARES",
+      "rank": "1º Sgt PM",
+      "function": "CGP Eleições",
+      "local": "2ª Cia - Piedade",
+      "phone": "15 997874207",
+      "vehicle": "I-40217",
+      "driver": "",
+      "shiftRaw": "06H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "975342-7",
+      "name": "ANDERSON DUARTE DA CRUZ",
+      "rank": "Cb PM",
+      "function": "Motorista CGP Eleições",
+      "local": "2ª Cia - Piedade",
+      "phone": "15 996262665",
+      "vehicle": "I-40217",
+      "driver": "",
+      "shiftRaw": "06H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "119540-9",
+      "name": "TIAGO DANTAS DOS SANTOS",
+      "rank": "1º Sgt PM",
+      "function": "CGP Eleições",
+      "local": "2ª Cia - Tapiraí",
+      "phone": "15 997534473",
+      "vehicle": "I-40224",
+      "driver": "",
+      "shiftRaw": "06H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "172124-A",
+      "name": "EDERLEI BERNARDO SANTANA",
+      "rank": "Sd PM",
+      "function": "Motorista CGP Eleições",
+      "local": "2ª Cia - Tapiraí",
+      "phone": "15 97325871",
+      "vehicle": "I-40224",
+      "driver": "",
+      "shiftRaw": "06H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "973250-A",
+      "name": "JOSE FABIANO DA SILVA",
+      "rank": "1º Sgt PM",
+      "function": "CGP Eleições",
+      "local": "3ª Cia - Araçoiaba da Serra",
+      "phone": "15 997550076",
+      "vehicle": "I-40350",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "144359-3",
+      "name": "JOSIAS MARIANO DA CRUZ",
+      "rank": "Cb PM",
+      "function": "Motorista CGP Eleições",
+      "local": "3ª Cia - Araçoiaba da Serra",
+      "phone": "15 99795-0039",
+      "vehicle": "I-40350",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "133054-3",
+      "name": "MAIKO TEODORO ALFONSO RIOS",
+      "rank": "1º Sgt PM",
+      "function": "CGP Eleições",
+      "local": "3ª Cia - Araçoiaba da Serra",
+      "phone": "15 998038791",
+      "vehicle": "I-40350",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "157420-5",
+      "name": "DANILO DE JESUS VIEIRA",
+      "rank": "Cb PM",
+      "function": "Motorista CGP Eleições",
+      "local": "3ª Cia - Araçoiaba da Serra",
+      "phone": "15 998713211",
+      "vehicle": "I-40350",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "130611-1",
+      "name": "JONATAS FERNANDES DA SILVA",
+      "rank": "1º Sgt PM",
+      "function": "CGP Eleições",
+      "local": "3ª Cia - Iperó",
+      "phone": "15 997218453",
+      "vehicle": "I-40330",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "136250-0",
+      "name": "HENRY SCABIA MONTES",
+      "rank": "Cb PM",
+      "function": "Motorista CGP Eleições",
+      "local": "3ª Cia - Iperó",
+      "phone": "15 997003788",
+      "vehicle": "I-40330",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "127464-3",
+      "name": "ADAM CARLOS PEREIRA",
+      "rank": "3º Sgt PM",
+      "function": "CGP Eleições",
+      "local": "3ª Cia - Iperó",
+      "phone": "15 991178402",
+      "vehicle": "I-40330",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "194271-9",
+      "name": "CARLOS BRUNO DOS SANTOS LIMA",
+      "rank": "Sd PM",
+      "function": "Motorista CGP Eleições",
+      "local": "3ª Cia - Iperó",
+      "phone": "15 996921992",
+      "vehicle": "I-40330",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "119450-0",
+      "name": "EMERSON ROSSI NOVAES",
+      "rank": "1º Sgt PM",
+      "function": "CGP Eleições",
+      "local": "3ª Cia - Pilar do sul",
+      "phone": "15 997910803",
+      "vehicle": "I-40311",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "144729-7",
+      "name": "CAMILA VERISSIMA BARBOSA",
+      "rank": "Cb PM",
+      "function": "Motorista CGP Eleições",
+      "local": "3ª Cia - Pilar do sul",
+      "phone": "15 997227965",
+      "vehicle": "I-40311",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "153215-4",
+      "name": "OSNEI VIEIRA DE CAMPOS",
+      "rank": "Cb PM",
+      "function": "Auxiliar CGP Eleições",
+      "local": "3ª Cia - Pilar do sul",
+      "phone": "15 996057019",
+      "vehicle": "I-40311",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "126355-2",
+      "name": "VALMIR RODRIGUES DE PAULA",
+      "rank": "1º Sgt PM",
+      "function": "CGP Eleições",
+      "local": "3ª Cia - Pilar do sul",
+      "phone": "15 98176-9115",
+      "vehicle": "I-40311",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "109330-4",
+      "name": "CLAUDINEI MARQUES DE OLIVEIRA",
+      "rank": "Cb PM",
+      "function": "Motorista CGP Eleições",
+      "local": "3ª Cia - Pilar do sul",
+      "phone": "15 997258050",
+      "vehicle": "I-40311",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "111961-3",
+      "name": "JEFFERSON ANTONIO DA SILVA",
+      "rank": "1º Sgt PM",
+      "function": "CGP Eleições",
+      "local": "3ª Cia - Salto de Pirapora",
+      "phone": "15 996171737",
+      "vehicle": "I-40312",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "171324-8",
+      "name": "GELSON ANTUNES FERNANDES",
+      "rank": "Cb PM",
+      "function": "Motorista CGP Eleições",
+      "local": "3ª Cia - Salto de Pirapora",
+      "phone": "15 997711846",
+      "vehicle": "I-40312",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "133567-7",
+      "name": "EVANDRO JOSE DA SILVA",
+      "rank": "Cb PM",
+      "function": "Auxiliar CGP Eleições",
+      "local": "3ª Cia - Salto de Pirapora",
+      "phone": "15 997509435",
+      "vehicle": "I-40312",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "136971-7",
+      "name": "MILTON TADEU MENDES FERREIRA",
+      "rank": "1º Sgt PM",
+      "function": "CGP Eleições",
+      "local": "3ª Cia - Salto de Pirapora",
+      "phone": "15 981148112",
+      "vehicle": "I-40312",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "156940-6",
+      "name": "JONAS GUILHERME VAZ",
+      "rank": "Sd PM",
+      "function": "Motorista CGP Eleições",
+      "local": "3ª Cia - Salto de Pirapora",
+      "phone": "15 996192775",
+      "vehicle": "I-40312",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "144506-5",
+      "name": "LIVIA MARIA LUIZATO",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "40º BPM/I",
+      "phone": "11 989607883",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "120847-A",
+      "name": "GISELE CRISTINA PACHECO DA SILVA",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "40º BPM/I",
+      "phone": "15 99617-2441",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "942851-8",
+      "name": "ADONIAS FERREIRA COSTA",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "40º BPM/I",
+      "phone": "15 997042850",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "117132-1",
+      "name": "ALAN ELPIRIO COSTA",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "40º BPM/I",
+      "phone": "15 998333353",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "116551-8",
+      "name": "WILLIAM BATISTA MACEDO",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "40º BPM/I",
+      "phone": "15 996221872",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "182488-4",
+      "name": "THAIS CAROLINA PAES",
+      "rank": "Sd PM",
+      "function": "Apoio Administrativo",
+      "local": "40º BPM/I",
+      "phone": "15 981098328",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "106379-A",
+      "name": "GERSON DONIZETE FLAUZINO MAGALHÃES",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "Cia FT",
+      "phone": "15 98150-9737",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "157483-3",
+      "name": "ELDER NOBRE GRACIANO",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "Cia FT",
+      "phone": "15 99859-9196",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "134910-4",
+      "name": "ELVIS ALVES DE OLIVEIRA",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "1ª Cia - Votorantim",
+      "phone": "11 93052-9891",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "140201-3",
+      "name": "William Lopes Romero",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "1ª Cia - Votorantim",
+      "phone": "11 94769-8587",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "967157-9",
+      "name": "CRISTINA MIRELIS GRAF",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "2ª Cia - Ibiúna",
+      "phone": "15 997737562",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "106276-0",
+      "name": "MARINA CORREA DE SOUZA",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "2ª Cia - Ibiúna",
+      "phone": "11 947263589",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "112177-4",
+      "name": "VALERIA DOLORES BELEM LOPES",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "2ª Cia - Ibiúna",
+      "phone": "11 976152978",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "106493-2",
+      "name": "RICARDO DE JESUS PAZINE",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "2ª Cia - Ibiúna",
+      "phone": "15 996936854",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "136046-9",
+      "name": "WILLIAM DE LARA",
+      "rank": "1º Sgt PM",
+      "function": "Apoio Administrativo",
+      "local": "2ª Cia - Piedade",
+      "phone": "15 997286993",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "100762-9",
+      "name": "GISELE DA COSTA",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "2ª Cia - Piedade",
+      "phone": "15 991012914",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "105874-6",
+      "name": "AGNALDO ANTONIO DA CRUZ",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "2ª Cia - Tapiraí",
+      "phone": "15 997096399",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "111921-4",
+      "name": "MARCIO LUCIANO DE QUEIROZ",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "2ª Cia - Tapiraí",
+      "phone": "15 997477496",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "148018-9",
+      "name": "JANAINA DE PAULA ARAUJO PRADO",
+      "rank": "Sd PM",
+      "function": "Apoio Administrativo",
+      "local": "3ª Cia - Pilar do sul",
+      "phone": "15 996277265",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "161958-6",
+      "name": "Ivan Rafael de Moraes Gomes",
+      "rank": "Sd PM",
+      "function": "Apoio Administrativo",
+      "local": "2ª Cia - Tapiraí",
+      "phone": "15 99696-9322",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "133117-5",
+      "name": "EDILSON DO NASCIMENTO CAMARGO",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "3ª Cia - Iperó",
+      "phone": "15 996079788",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "106792-3",
+      "name": "MILENE THEODORO DE O A DOS SANTOS",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "3ª Cia - Salto de Pirapora",
+      "phone": "15 997046948",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "119445-3",
+      "name": "EDSON RICARDO SOUZA D DE OLIVEIRA",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "3ª Cia - Salto de Pirapora",
+      "phone": "15 981767696",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "117140-2",
+      "name": "MAURO SERGIO COFANI",
+      "rank": "Cb PM",
+      "function": "Apoio Administrativo",
+      "local": "3ª Cia - Araçoiaba da Serra",
+      "phone": "15 997183311",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Manhã - 06H ÀS 13H",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "151720-1",
+      "name": "ROBERTO JESUS DE OLIVEIRA",
+      "rank": "Sd PM",
+      "function": "Apoio Administrativo",
+      "local": "3ª Cia - Araçoiaba da Serra",
+      "phone": "15 981120212",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    },
+    {
+      "re": "960837-A",
+      "name": "ADILSON RODRIGUES",
+      "rank": "1º Sgt PM",
+      "function": "Apoio Administrativo",
+      "local": "3ª Cia - Salto de Pirapora",
+      "phone": "11 95966-7517",
+      "vehicle": "Sem Viatura",
+      "driver": "",
+      "shiftRaw": "Tarde - 13H ao Término",
+      "unit": "40º BPM/I"
+    }
+  ],
+  "deviceBindings": {
+    "dev-1wh5gf8-mv8tez5g": {
+      "deviceId": "dev-1wh5gf8-mv8tez5g",
+      "boundRe": "130043-1",
+      "boundName": "THIAGO RIBAS GATO MARIANO",
+      "boundRank": "Cb PM",
+      "boundEmail": "",
+      "boundAt": "2026-10-15T00:50:06.728Z"
+    }
+  },
+  "auditLogs": [
+    {
+      "id": "unbind-1792025374359",
+      "timestamp": 1792025374360,
+      "dateTimeStr": "14/10/2026, 21:49:34",
+      "action": "UNBIND_DEVICE",
+      "officer": "Cb PM THIAGO RIBAS GATO MARIANO (RE: 130043-1)",
+      "reason": "Outro motivo operacional da P/3",
+      "notes": "",
+      "executor": "Supervisão P/3"
+    },
+    {
+      "id": "unbind-1791625698007",
+      "timestamp": 1791625698007,
+      "dateTimeStr": "10/10/2026, 06:48:18",
+      "action": "UNBIND_DEVICE",
+      "officer": "1º Sgt PM LUAN FELIPE BARRETO DOS SANTOS (RE: 136575-4)",
+      "reason": "Imprevisto com o aparelho (bateria/avaria)",
+      "notes": "",
+      "executor": "Supervisão P/3"
+    },
+    {
+      "id": "audit_del_1791625690797_t54b",
+      "timestamp": 1791625690797,
+      "timeStr": "06:48",
+      "actorRe": "136575-4",
+      "actorName": "LUAN FELIPE BARRETO DOS SANTOS",
+      "actorRank": "1º Sgt PM",
+      "targetRe": "1º Sgt PM LUAN FELIPE BARRETO DOS SANTOS (RE: 136575-4)",
+      "targetName": "COLEGIO OBJETIVO",
+      "action": "CHECKIN_DELETED",
+      "details": "Check-in apagado/desfeito para 1º Sgt PM LUAN FELIPE BARRETO DOS SANTOS (RE: 136575-4) na escola COLEGIO OBJETIVO"
+    },
+    {
+      "id": "audit_del_1791625449849_08an",
+      "timestamp": 1791625449849,
+      "timeStr": "06:44",
+      "actorRe": "136575-4",
+      "actorName": "LUAN FELIPE BARRETO DOS SANTOS",
+      "actorRank": "1º Sgt PM",
+      "targetRe": "1º Sgt PM LUAN FELIPE BARRETO DOS SANTOS (RE: 136575-4)",
+      "targetName": "COLEGIO OBJETIVO",
+      "action": "CHECKIN_DELETED",
+      "details": "Check-in apagado/desfeito para 1º Sgt PM LUAN FELIPE BARRETO DOS SANTOS (RE: 136575-4) na escola COLEGIO OBJETIVO"
+    },
+    {
+      "id": "unbind-1791547057934",
+      "timestamp": 1791547057934,
+      "dateTimeStr": "09/10/2026, 08:57:37",
+      "action": "UNBIND_DEVICE",
+      "officer": "Cb PM THIAGO RIBAS GATO MARIANO (RE: 130043-1)",
+      "reason": "Imprevisto com o aparelho (bateria/avaria)",
+      "notes": "",
+      "executor": "Supervisão P/3"
+    },
+    {
+      "id": "audit_del_1791545281761_z3jc",
+      "timestamp": 1791545281761,
+      "timeStr": "08:28",
+      "actorRe": "SUPERVISOR",
+      "actorName": "Supervisor P/3",
+      "actorRank": "P/3",
+      "targetRe": "1º Sgt PM LUAN FELIPE BARRETO DOS SANTOS (RE: 136575-4)",
+      "targetName": "COLEGIO OBJETIVO",
+      "action": "CHECKIN_DELETED",
+      "details": "Check-in apagado/desfeito para 1º Sgt PM LUAN FELIPE BARRETO DOS SANTOS (RE: 136575-4) na escola COLEGIO OBJETIVO"
+    }
+  ],
+  "systemConfig": {
+    "sheets_config": {
+      "fixedStaffSheetId": "1SlH6v0JzG7P0HbE-lwQ3MuPjWeJhZTQbop_X4x_v3o8",
+      "fixedStaffSheetName": "Operação Eleições — 1ª Turno - 40BPM/I",
+      "motorizedStaffSheetId": "15xgyR5E3uuRtrJcbuK9kYUkZwWNZF582-sPXjJjxkUY",
+      "motorizedStaffSheetName": "PLANILHA DE EMPENHO DE EFETIVO - ELEIÇÕES",
+      "coordinatesSheetId": "1KULBz_7cTm6nf8GCigstoZezLfZoJ62b_0RzadB-PFA",
+      "coordinatesSheetName": "Escolas - Coordenadas",
+      "checkinsTabName": "Check-ins_Eleicoes2026",
+      "autoSync": true,
+      "lastSyncTime": "06:49:42",
+      "operationalPassword": "40BPMI"
+    }
+  }
+}
